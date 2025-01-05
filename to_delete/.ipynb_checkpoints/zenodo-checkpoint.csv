@@ -1,0 +1,11 @@
+,access_right,authors_count,authors_affiliation_count,authors_familyname_count,authors_givennames_count,authors_gnd_count,authors_name_count,authors_orcid_count,grants,journal,language,license,conference_acronym,conference_dates,conference_place,conference_session,conference_session_part,conference_title,conference_website,publication_date,title,version
+0,True,1,1,0,0,0,1,1,False,False,False,True,False,False,False,False,False,False,False,True,True,False
+1,True,5,5,0,0,0,5,3,True,False,True,True,True,True,True,False,False,True,True,True,True,False
+2,True,1,1,0,0,0,1,1,False,False,False,True,True,False,False,False,False,True,False,True,True,False
+3,True,1,1,0,0,0,1,1,False,False,False,True,True,False,False,False,False,True,False,True,True,False
+4,True,1,1,0,0,0,1,1,False,False,False,True,True,False,False,False,False,True,False,True,True,False
+5,True,5,5,0,0,0,5,2,False,False,False,True,False,True,True,False,False,True,True,True,True,False
+6,True,3,3,0,0,0,3,3,True,False,True,True,True,True,True,False,False,True,True,True,True,False
+7,True,1,0,0,0,0,1,0,False,False,False,True,False,False,False,False,False,False,False,True,True,False
+8,True,1,0,0,0,0,1,0,False,False,False,True,False,False,False,False,False,False,False,True,True,False
+9,True,13,0,0,0,0,13,0,False,False,False,True,False,True,True,False,False,True,False,True,True,False
