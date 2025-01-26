@@ -1,0 +1,1625 @@
+{
+    "0": {
+        "created": "2018-12-30T12:28:26.006663+00:00",
+        "modified": "2024-07-25T03:06:12.432109+00:00",
+        "id": 2528990,
+        "conceptrecid": "2528989",
+        "doi": "10.5281/zenodo.2528990",
+        "conceptdoi": "10.5281/zenodo.2528989",
+        "doi_url": "https://doi.org/10.5281/zenodo.2528990",
+        "metadata": {
+            "title": "An online phenotype database: first step towards breeding programs in local pig breeds",
+            "doi": "10.5281/zenodo.2528990",
+            "publication_date": "2018-08-27",
+            "description": "<p>In order to further allow implementation of breeding programs in local pig breeds, with selection objectives defined for each local breed, we aimed at developing a standardised recording of carcass and meat quality traits. These data have to be connected with herdbooks to estimate genetic parameters of the traits (heritabilities and genetic correlations) which are necessary to define breeding objectives. Today the situation is very different from one local breed to another. No or very few phenotypes are recorded in some of them, while breeding programs already exist for a few breeds. To promote phenotyping, a dedicated database and a website were developed in the frame of the TREASURE project. First, the required variables have been collected for six local breeds: Basque (FR), B&iacute;saro (PT), Crna slavonska (HR), Gascon (FR), Kr&scaron;kopoljski (SI) and Schw&auml;bisch-H&auml;llisches (DE). In total 74 variables have been identified dealing with animal herdbook information (10), rearing and growth (22), carcass (22) and meat quality (20) attributes. The database is compatible with the various identifiers used in the different countries: animal IDs, breed, farm&hellip; codifications. Major attention has been paid to the description of measurement methods of traits. Thus, each carcass and meat quality phenotype is associated to a method description representing 35 additional variables. The website can be easily translated into several languages. The website and database are currently on test until the end of the TREASURE project. All the breeds studied in TREASURE are free to use these tools. The database can be duplicated so that each partner can host its own data. Funded by European Union H2020 RIA program (grant agreement no. 634476).</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Mercat, MJ",
+                    "affiliation": "IFIP-Institut du Porc, La Motte au Vicomte, 35651 Le Rheu, France"
+                },
+                {
+                    "name": "Zahlan, E",
+                    "affiliation": "IFIP-Institut du Porc, La Motte au Vicomte, 35651 Le Rheu, France"
+                },
+                {
+                    "name": "Petig, M",
+                    "affiliation": "BESH, Haller Str. 20, 74549 Wolpertshausen, Germany"
+                },
+                {
+                    "name": "Lenoir, H",
+                    "affiliation": "IFIP-Institut du Porc, La Motte au Vicomte, 35651 Le Rheu, France"
+                },
+                {
+                    "name": "Cheval, P",
+                    "affiliation": "IFIP-Institut du Porc, La Motte au Vicomte, 35651 Le Rheu, France"
+                },
+                {
+                    "name": "Čandek-Potokar, M",
+                    "affiliation": "KIS, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Škrlep, M",
+                    "affiliation": "KIS, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Kastelic, A",
+                    "affiliation": "KGZS-Zavod NM, Šmihelska cesta 14, 8000 Novo mesto, Slovenia"
+                },
+                {
+                    "name": "Lukić, B",
+                    "affiliation": "PFOS, TRG SV TROJSTVA 3, 31000 Osijek, Croatia"
+                },
+                {
+                    "name": "Nunes, J",
+                    "affiliation": "IPVC, Praça General Barbosa, 4900 Viana do Castelo, Portugal"
+                },
+                {
+                    "name": "Pires, P",
+                    "affiliation": "IPVC, Praça General Barbosa, 4900 Viana do Castelo, Portugal"
+                },
+                {
+                    "name": "Lebret, B",
+                    "affiliation": "PEGASE, INRA, Agrocampus-Ouest, 35042 Rennes, France"
+                }
+            ],
+            "language": "eng",
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "meeting": {
+                "title": "69th Annual Meeting of the European Federation of Animal Science",
+                "dates": "27 – 31 August, 2018",
+                "place": "Dubrovnick, Croatia",
+                "url": "http://www.eaap2018.org/",
+                "session": "59"
+            },
+            "imprint": {
+                "isbn": "978-90-8686-323-5"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "grants": [
+                {
+                    "code": "634476",
+                    "internal_id": "10.13039/501100000780::634476",
+                    "funder": {
+                        "name": "European Commission",
+                        "doi": "10.13039/501100000780",
+                        "acronym": "EC"
+                    },
+                    "title": "DIVERSITY OF LOCAL PIG BREEDS AND PRODUCTION SYSTEMS FOR HIGH QUALITY TRADITIONAL PRODUCTS AND SUSTAINABLE PORK CHAINS",
+                    "acronym": "TREASURE",
+                    "program": "H2020-EU.3.2.",
+                    "url": "https://cordis.europa.eu/projects/634476"
+                }
+            ],
+            "communities": [
+                {
+                    "id": "eu"
+                },
+                {
+                    "id": "h2020_treasure"
+                }
+            ],
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528989"
+                        }
+                    }
+                ]
+            }
+        },
+        "title": "An online phenotype database: first step towards breeding programs in local pig breeds",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528990",
+            "self_html": "https://zenodo.org/records/2528990",
+            "doi": "https://doi.org/10.5281/zenodo.2528990",
+            "self_doi": "https://doi.org/10.5281/zenodo.2528990",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528990",
+            "parent": "https://zenodo.org/api/records/2528989",
+            "parent_html": "https://zenodo.org/records/2528989",
+            "parent_doi": "https://doi.org/10.5281/zenodo.2528989",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528989",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528990/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528990/sequence/default",
+            "files": "https://zenodo.org/api/records/2528990/files",
+            "media_files": "https://zenodo.org/api/records/2528990/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528990:ABSTRACT%20EAAP%202018%20S59P10.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528990:ABSTRACT%20EAAP%202018%20S59P10.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528990:ABSTRACT%20EAAP%202018%20S59P10.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528990:ABSTRACT%20EAAP%202018%20S59P10.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528990:ABSTRACT%20EAAP%202018%20S59P10.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528990:ABSTRACT%20EAAP%202018%20S59P10.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528990/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528990/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528990/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528990/latest",
+            "versions": "https://zenodo.org/api/records/2528990/versions",
+            "draft": "https://zenodo.org/api/records/2528990/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528990/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528990/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528990/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528990/access/users",
+            "access_request": "https://zenodo.org/api/records/2528990/access/request",
+            "access": "https://zenodo.org/api/records/2528990/access",
+            "communities": "https://zenodo.org/api/records/2528990/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528990/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528990/requests"
+        },
+        "updated": "2024-07-25T03:06:12.432109+00:00",
+        "recid": "2528990",
+        "revision": 9,
+        "files": [
+            {
+                "id": "f80a511b-2b1a-4b31-a060-e0ac90825321",
+                "key": "ABSTRACT EAAP 2018 S59P10.pdf",
+                "size": 424611,
+                "checksum": "md5:63b27711c783750ced8fcfd2aaa93b10",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528990/files/ABSTRACT EAAP 2018 S59P10.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "40274"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 33,
+            "unique_downloads": 32,
+            "views": 46,
+            "unique_views": 44,
+            "version_downloads": 33,
+            "version_unique_downloads": 32,
+            "version_unique_views": 44,
+            "version_views": 46
+        },
+        "state": "done",
+        "submitted": true
+    },
+    "1": {
+        "created": "2018-12-29T16:16:31.275414+00:00",
+        "modified": "2024-07-25T03:06:42.292338+00:00",
+        "id": 2528816,
+        "conceptrecid": "2528815",
+        "doi": "10.5281/zenodo.2528816",
+        "conceptdoi": "10.5281/zenodo.2528815",
+        "doi_url": "https://doi.org/10.5281/zenodo.2528816",
+        "metadata": {
+            "title": "OCL 2 Quick Reference Card",
+            "doi": "10.5281/zenodo.2528816",
+            "publication_date": "2018-12-29",
+            "description": "<p>The Object Constraint Language (OCL) is a declarative language describing rules applying to Unified Modeling Language (UML) models and is part of the UML standard. OCL is a precise text language that provides constraint and object query expressions on any MOF model or meta-model that cannot otherwise be expressed by diagrammatic notation. OCL is a key component of the OMG standard for transforming models, the Queries / Views / Transformations (QVT) specification.</p>\n\n<p>This OCL 2 quick reference card has been extensively checked and is compatible with the USE (UML-based Specification Environment) tool [see DOI=10.1016/j.scico.2007.01.013]</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Brito e Abreu, Fernando",
+                    "affiliation": "ISCTE-IUL"
+                }
+            ],
+            "keywords": [
+                "OCL",
+                "quick reference card"
+            ],
+            "language": "eng",
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528815"
+                        }
+                    }
+                ]
+            },
+            "notes": "Also available at https://pt.scribd.com/document/396506214/OCL-Quick-Reference-Card"
+        },
+        "title": "OCL 2 Quick Reference Card",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528816",
+            "self_html": "https://zenodo.org/records/2528816",
+            "doi": "https://doi.org/10.5281/zenodo.2528816",
+            "self_doi": "https://doi.org/10.5281/zenodo.2528816",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528816",
+            "parent": "https://zenodo.org/api/records/2528815",
+            "parent_html": "https://zenodo.org/records/2528815",
+            "parent_doi": "https://doi.org/10.5281/zenodo.2528815",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528815",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528816/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528816/sequence/default",
+            "files": "https://zenodo.org/api/records/2528816/files",
+            "media_files": "https://zenodo.org/api/records/2528816/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528816:OCL_Reference_Card.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528816:OCL_Reference_Card.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528816:OCL_Reference_Card.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528816:OCL_Reference_Card.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528816:OCL_Reference_Card.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528816:OCL_Reference_Card.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528816/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528816/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528816/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528816/latest",
+            "versions": "https://zenodo.org/api/records/2528816/versions",
+            "draft": "https://zenodo.org/api/records/2528816/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528816/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528816/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528816/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528816/access/users",
+            "access_request": "https://zenodo.org/api/records/2528816/access/request",
+            "access": "https://zenodo.org/api/records/2528816/access",
+            "communities": "https://zenodo.org/api/records/2528816/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528816/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528816/requests"
+        },
+        "updated": "2024-07-25T03:06:42.292338+00:00",
+        "recid": "2528816",
+        "revision": 7,
+        "files": [
+            {
+                "id": "83753df8-55ff-4dcb-877f-0012984c4025",
+                "key": "OCL_Reference_Card.pdf",
+                "size": 460026,
+                "checksum": "md5:35e426e8b44ba564a3c85362eb3b0ae6",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528816/files/OCL_Reference_Card.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "35915"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 116,
+            "unique_downloads": 105,
+            "views": 130,
+            "unique_views": 122,
+            "version_downloads": 116,
+            "version_unique_downloads": 105,
+            "version_unique_views": 122,
+            "version_views": 130
+        },
+        "state": "done",
+        "submitted": true
+    },
+    "2": {
+        "created": "2018-12-29T11:47:21.545889+00:00",
+        "modified": "2024-07-25T03:06:57.212129+00:00",
+        "id": 2528738,
+        "conceptrecid": "2528737",
+        "doi": "10.13140/RG.2.2.23026.96963",
+        "doi_url": "https://doi.org/10.13140/RG.2.2.23026.96963",
+        "metadata": {
+            "title": "Interpretation of Landscape Values, Typology and Quality Using Methods of Spatial Metrics for Ecological Planning",
+            "doi": "10.13140/RG.2.2.23026.96963",
+            "publication_date": "2013-10-14",
+            "description": "<p>1. Introduction. This research focuses on landscapes studies with selected research area located in central Slovakia, Sitno area. The research purpose is to perform spatial analysis of the landscapes and patches within the landscapes, in order to assess, which parts of the selected study area have the highest environmental quality and value, for further environmental monitoring and management. This paper presents quantitative ecological assessment of the landscapes within the natural protected area located in Slovakia, central Europe. It contributes to the sustainable development and environmental management of the environmentally protected zones.</p>\n\n<p>2. Methodology In this research we performed spatial analysis of Sitno landscapes using methods of landscapes metrics calculation and quantification. This include measurements of landscape elements, assessment of ecological significance, zoning of area into areas of ecological significance with different value levels. Methodologically, the landscape metrics assessment included calculations of</p>\n\n<ul>\n\t<li>Number of Patches (NP),</li>\n\t<li>Patch&#39;s density (PD),</li>\n\t<li>Mean patch size (MPS),</li>\n\t<li>Patch&#39;s size standard deviation (PSSD) and</li>\n\t<li>Mean shape index (MSI).</li>\n</ul>\n\n<p>3. Techniques The output of this interpretation is defined by the stepwise levels of ecological values:</p>\n\n<ol>\n\t<li>very significant</li>\n\t<li>significant</li>\n\t<li>moderately significant</li>\n\t<li>almost insignificant</li>\n\t<li>insignificant.</li>\n</ol>\n\n<p>3. Results. The main result of this work consists in determined ecological significant areas of habitats that are under protection ́s system of Natura 2000 Sites. The patches quantification of habitats is the partial result that influences process of determination of ecological significance. The interpretative process examines land cover patches by the set of landscape metrics for the area, size, density and shape (NP, PD, MPS, PSSD and MSI). The output values could express a spatial processes in the landscape, such as perforation, dissection, fragmentation, shrinkage or attrition.</p>\n\n<p>The final ecological significance of the study area &ndash; Sitno Natura 2000 site - is at degree 3, what means that the area is represented by moderately significant land cover patches &ndash; habitats. It indicates the same value as the one at the initial level. According to the value of the ecological significance, the study area has been diversified into three zones, where each one indicates specific level of conservation. The zones and the final degree of the ecological significance of habitats are retroactively compared to historical and cultural human development that started in this area as early as in 1st century BC.</p>\n\n<p>The final results are presented as calculated numerical values which are assigned for each land cover patch within the landscape. The interpretation of these quantified data allows to define ecological value and quality of the landscapes. The ecological value, or significance, of the landscape elements is represented by the numerical values which indicate quality of the complex ecological processes within the landscape.</p>\n\n<p>4. Conclusion. The main result of this work is determined ecological significance of Sitno Natura 2000 Site. The ecological significance of landscape elements represents numerical values (degrees), which interpret quality of the ongoing ecological process in landscape. The zoning of the protected area is done according to the degrees of the ecological significance. This process objectively divides study area into different zones with separately regime for nature conservation and landscape usage. It is characterized as a process based on the objective and ecological approach that respects human sustainable development.</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Michal Klauco",
+                    "affiliation": null
+                },
+                {
+                    "name": "Bohuslava Gregorova",
+                    "affiliation": null
+                },
+                {
+                    "name": "Ugljesa Stankov",
+                    "affiliation": null
+                },
+                {
+                    "name": "Vladimir Markovic",
+                    "affiliation": null
+                },
+                {
+                    "name": "Polina Lemenkova",
+                    "affiliation": "Ocean University of China, College of Marine Geoscience",
+                    "orcid": "0000-0002-5759-1089"
+                }
+            ],
+            "keywords": [
+                "landscape metrics",
+                "land cover types",
+                "land cover patches",
+                "ecology",
+                "geography",
+                "environmental monitoring"
+            ],
+            "related_identifiers": [
+                {
+                    "identifier": "10.13140/RG.2.2.23026.96963",
+                    "relation": "isIdenticalTo",
+                    "scheme": "doi"
+                }
+            ],
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528737"
+                        }
+                    }
+                ]
+            },
+            "notes": "Cite as: M. Klauco, B. Gregorová, U. Stankov, V. Markovic, and P. Lemenkova. Interpretation of Landscape Values, Typology and Quality Using Methods of Spatial Metrics for Ecological Planning. 54th International Scientific Conference 'Environmental and Climate Technologies', 2013 Oct 14-16. Riga Technical University, Latvia, Oct. 2013. doi: 10.13140/RG. 2.2.23026.96963."
+        },
+        "title": "Interpretation of Landscape Values, Typology and Quality Using Methods of Spatial Metrics for Ecological Planning",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528738",
+            "self_html": "https://zenodo.org/records/2528738",
+            "doi": "https://doi.org/10.13140/RG.2.2.23026.96963",
+            "self_doi": "https://doi.org/10.13140/RG.2.2.23026.96963",
+            "self_doi_html": "https://zenodo.org/doi/10.13140/RG.2.2.23026.96963",
+            "parent": "https://zenodo.org/api/records/2528737",
+            "parent_html": "https://zenodo.org/records/2528737",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528738/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528738/sequence/default",
+            "files": "https://zenodo.org/api/records/2528738/files",
+            "media_files": "https://zenodo.org/api/records/2528738/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528738:Klauc%CC%8Co_etal_Poster_RTU_Latvia.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528738:Klauc%CC%8Co_etal_Poster_RTU_Latvia.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528738:Klauc%CC%8Co_etal_Poster_RTU_Latvia.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528738:Klauc%CC%8Co_etal_Poster_RTU_Latvia.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528738:Klauc%CC%8Co_etal_Poster_RTU_Latvia.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528738:Klauc%CC%8Co_etal_Poster_RTU_Latvia.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528738/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528738/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528738/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528738/latest",
+            "versions": "https://zenodo.org/api/records/2528738/versions",
+            "draft": "https://zenodo.org/api/records/2528738/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528738/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528738/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528738/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528738/access/users",
+            "access_request": "https://zenodo.org/api/records/2528738/access/request",
+            "access": "https://zenodo.org/api/records/2528738/access",
+            "communities": "https://zenodo.org/api/records/2528738/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528738/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528738/requests"
+        },
+        "updated": "2024-07-25T03:06:57.212129+00:00",
+        "recid": "2528738",
+        "revision": 7,
+        "files": [
+            {
+                "id": "52102b81-c316-4675-8791-c965cafce5f5",
+                "key": "Klaučo_etal_Poster_RTU_Latvia.pdf",
+                "size": 734952,
+                "checksum": "md5:67ea54924a2f6dafe1cc279315e67408",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528738/files/Klaučo_etal_Poster_RTU_Latvia.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "55845"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 22,
+            "unique_downloads": 21,
+            "views": 37,
+            "unique_views": 37,
+            "version_downloads": 22,
+            "version_unique_downloads": 21,
+            "version_unique_views": 36,
+            "version_views": 36
+        },
+        "state": "done",
+        "submitted": true
+    },
+    "3": {
+        "created": "2018-12-29T11:38:23.231290+00:00",
+        "modified": "2024-07-25T03:06:57.760380+00:00",
+        "id": 2528734,
+        "conceptrecid": "2528733",
+        "doi": "10.5281/zenodo.2528734",
+        "conceptdoi": "10.5281/zenodo.2528733",
+        "doi_url": "https://doi.org/10.5281/zenodo.2528734",
+        "metadata": {
+            "title": "Assessing performance and management of European local pig breeds in project TREASURE",
+            "doi": "10.5281/zenodo.2528734",
+            "publication_date": "2018-08-27",
+            "description": "<p>Unlike in modern breeds, the knowledge on performance and management of local pig breeds is very limited. These are key aspects to be developed for their successful exploitation that requires strategies adapted to their specific productive and metabolic characteristics, quite different from those of modern pig breeds, to ensure their preservation and future expansion, particularly for those more endangered. These are some of the challenges addressed by the project TREASURE. For this purpose, a series of experiments involving 11 European local breeds -differing in the level of development- have been carried out covering various and complementary aspects like nutritional requirements in different productive phases (Cinta Senese, Iberian), feeding practices involving locally available resources (Krskopolje, Schw&auml;bisch- H&auml;llisches, Turopolje, Mangalitsa, B&iacute;saro, Iberian, Gascon), and innovative management and housing practices to enhance product quality or improve animal welfare (Cinta Senese, Alentejano, Bisaro, Iberian, Mangalitsa, Moravka, Krskopolje, Schw&auml;bisch-H&auml;llisches, Black Slavonian). All these activities have been designed to obtain essential information to develop future productive strategies for each of the involved breeds, taking into account to obtain local high-quality products, and seeking for optimum pig performance and high animal welfare conditions in the production systems under consideration. The information provided constitutes a unique and valuable set of data for the management of these breeds and the further development of local pork chains. In some cases it is the first available data for the breeds concerned. A general overview of the developed activities will be presented highlighting some of the achievements obtained. Funded by European Union&rsquo;s H2020 RIA program (Grant agreement no. 634476).</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Nieto, R",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Čandek-Potokar, M",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Pugliese, C",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Araujo, JP",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Charneca, R",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "García-Casco, J",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "González- Sánchez, E",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Hernández-García, FI",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Izquierdo, M",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Karolyi, D",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Lebret, B",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Margeta, V",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Mercat, MJ",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Petig, M",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Radovic, C",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Savic, R",
+                    "affiliation": "TREASURE Consortium, Hacquetova ul. 17, 1000 Ljubljana, Slovenia"
+                }
+            ],
+            "language": "eng",
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "meeting": {
+                "title": "69th Annual Meeting of the European Federation of Animal Science",
+                "dates": "27 – 31 August, 2018",
+                "place": "Dubrovnick, Croatia",
+                "url": "http://www.eaap2018.org/",
+                "session": "49"
+            },
+            "imprint": {
+                "isbn": "978-90-8686-323-5"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "grants": [
+                {
+                    "code": "634476",
+                    "internal_id": "10.13039/501100000780::634476",
+                    "funder": {
+                        "name": "European Commission",
+                        "doi": "10.13039/501100000780",
+                        "acronym": "EC"
+                    },
+                    "title": "DIVERSITY OF LOCAL PIG BREEDS AND PRODUCTION SYSTEMS FOR HIGH QUALITY TRADITIONAL PRODUCTS AND SUSTAINABLE PORK CHAINS",
+                    "acronym": "TREASURE",
+                    "program": "H2020-EU.3.2.",
+                    "url": "https://cordis.europa.eu/projects/634476"
+                }
+            ],
+            "communities": [
+                {
+                    "id": "eu"
+                },
+                {
+                    "id": "h2020_treasure"
+                }
+            ],
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528733"
+                        }
+                    }
+                ]
+            }
+        },
+        "title": "Assessing performance and management of European local pig breeds in project TREASURE",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528734",
+            "self_html": "https://zenodo.org/records/2528734",
+            "doi": "https://doi.org/10.5281/zenodo.2528734",
+            "self_doi": "https://doi.org/10.5281/zenodo.2528734",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528734",
+            "parent": "https://zenodo.org/api/records/2528733",
+            "parent_html": "https://zenodo.org/records/2528733",
+            "parent_doi": "https://doi.org/10.5281/zenodo.2528733",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528733",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528734/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528734/sequence/default",
+            "files": "https://zenodo.org/api/records/2528734/files",
+            "media_files": "https://zenodo.org/api/records/2528734/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528734:ABSTRACT%20EAAP%202018%20S49P31.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528734:ABSTRACT%20EAAP%202018%20S49P31.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528734:ABSTRACT%20EAAP%202018%20S49P31.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528734:ABSTRACT%20EAAP%202018%20S49P31.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528734:ABSTRACT%20EAAP%202018%20S49P31.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528734:ABSTRACT%20EAAP%202018%20S49P31.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528734/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528734/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528734/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528734/latest",
+            "versions": "https://zenodo.org/api/records/2528734/versions",
+            "draft": "https://zenodo.org/api/records/2528734/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528734/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528734/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528734/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528734/access/users",
+            "access_request": "https://zenodo.org/api/records/2528734/access/request",
+            "access": "https://zenodo.org/api/records/2528734/access",
+            "communities": "https://zenodo.org/api/records/2528734/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528734/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528734/requests"
+        },
+        "updated": "2024-07-25T03:06:57.760380+00:00",
+        "recid": "2528734",
+        "revision": 8,
+        "files": [
+            {
+                "id": "c4814ad1-10df-47a0-91a3-837c863e5f86",
+                "key": "ABSTRACT EAAP 2018 S49P31.pdf",
+                "size": 417706,
+                "checksum": "md5:bf319f2b20e4f6554a0f821f6c1023fa",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528734/files/ABSTRACT EAAP 2018 S49P31.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "40274"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 38,
+            "unique_downloads": 36,
+            "views": 46,
+            "unique_views": 44,
+            "version_downloads": 38,
+            "version_unique_downloads": 36,
+            "version_unique_views": 44,
+            "version_views": 46
+        },
+        "state": "done",
+        "submitted": true
+    },
+    "4": {
+        "created": "2018-12-29T11:29:20.794104+00:00",
+        "modified": "2024-07-25T03:06:58.917368+00:00",
+        "id": 2528730,
+        "conceptrecid": "2528729",
+        "doi": "10.13140/RG.2.2.23564.36485",
+        "doi_url": "https://doi.org/10.13140/RG.2.2.23564.36485",
+        "metadata": {
+            "title": "Bringing Geospatial Analysis to the Social Studies: an Assessment of the City Sprawl in China",
+            "doi": "10.13140/RG.2.2.23564.36485",
+            "publication_date": "2014-10-22",
+            "description": "<p>Research area: Taipei urban landscapes, Taiwan. Located on the north of the Taiwan Island, Taipei is the country&#39;s core urban political and economic center with population reaching over 2.6 M and continuing to expand within the city Research aim: spatio-temporal analysis of urban dynamics in study area during 15 years (1990-2005) Data capture: The data include Landsat TM images taken from the U.S.G.S. website. The software used is ENVI GIS.</p>\n\n<p>Research objective: application of geoinformatic tools, remote sensing data and application of methodology to spatial analysis for a case study of Taipei.</p>\n\n<p>Research problem: In the past decades, the process of urbanization has become more notable in the East Asia. Since past decades, Taipei city undergone serious urban changes.The development of urban landscapes in Taipei has unique feature; Taiwan&#39;s exceptional economic and industrial growth since 1980s, which is often referred as &quot;industrial wonder of Taiwan&quot;. Recently, the country quickly transformed from an agriculture-based traditional economy into a highly industrialized society. As a result, Taiwan has now a new face of high-technology oriented, economically restructured economy. This caused changes in the face of the country, modifying both its social and natural landscape patterns. Taiwan is nowadays a highly urbanized country with almost 80% of the total population of Taiwan living in urban areas. Intensive urbanization necessarily create new conditions for human-nature co-existence, since rapidly growing city and high urbanization rate affect biodiversity and ecosystems sustainability. The process of urbanization includes transformation of natural landscapes: typical natural land cover type are being transformed into human-affected artificial surfaces and the city area enlarges. Anthropogenic pressure increased rapidly due to the expansion of Taipei metropolitan area. Rapid urbanization affects complex interrelations of natural and urban ecosystems, changes their structure, size and shape, which becames a serious environmental problem. At the same time, Taiwan has unique natural landscapes with high environmental value, outstanding natural beauty, rare and extinct species. In vies of this, environmental monitoring should be considered for effective city management and nature conservation on the island.</p>\n\n<p>Methods: Workflow includes following steps:</p>\n\n<ol>\n\t<li>Preliminary processing</li>\n\t<li>Creation color composites</li>\n\t<li>Classification using K-means algorithm</li>\n\t<li>Mapping using classification results</li>\n\t<li>Accuracy assessment.</li>\n</ol>\n\n<p>The preliminary data processing includes image contrast stretching, which is useful as by default, ENVI displays images with a 2% linear contrast stretch. For better contrast the histogram equalization contrast stretch was applied to the image in order to enhance the visual quality.</p>\n\n<p>Reults. Based on the image classification, three (3) areas within the city has been selected and distinguished: I, II, III. Comparing regions I, II and III, the conclusion is the following: Region I has changes in the land cover types since 1990s. It has much more changes comparing to the core, old city area (region II) Region II (the core city) is the most stable region. It has the least changes, because this area has been already industrialized for a long time. Region III, has undergone notable changes. This is caused by the intensive relocation of the population to the Taipei area after 1980s. This is regions is dynamically developing within the Taipei since 1990s.</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Lemenkova Polina",
+                    "affiliation": "Ocean University of China, College of Marine Geoscience",
+                    "orcid": "0000-0002-5759-1089"
+                }
+            ],
+            "keywords": [
+                "satellite images",
+                "Landsat TM",
+                "image classification",
+                "image processing",
+                "satellite imagery",
+                "ENVI GIS",
+                "GIS",
+                "mapping",
+                "cartography",
+                "land cover types",
+                "land cover changes"
+            ],
+            "related_identifiers": [
+                {
+                    "identifier": "10.13140/RG.2.2.23564.36485",
+                    "relation": "isIdenticalTo",
+                    "scheme": "doi"
+                }
+            ],
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528729"
+                        }
+                    }
+                ]
+            },
+            "notes": "Cite as:\nP. Lemenkova. Bringing Geospatial Analysis to the Social Studies: an Assessment of the City Sprawl in China. Presented at 10th International Congress of the Hellenic Geographical Society, 2014 Oct 22-24. Department of Physical and Environmental Geography School of Geology Aristotle University of Thessaloniki, Greece, 2014. doi: 10.13140/RG.2.2. 23564.36485."
+        },
+        "title": "Bringing Geospatial Analysis to the Social Studies: an Assessment of the City Sprawl in China",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528730",
+            "self_html": "https://zenodo.org/records/2528730",
+            "doi": "https://doi.org/10.13140/RG.2.2.23564.36485",
+            "self_doi": "https://doi.org/10.13140/RG.2.2.23564.36485",
+            "self_doi_html": "https://zenodo.org/doi/10.13140/RG.2.2.23564.36485",
+            "parent": "https://zenodo.org/api/records/2528729",
+            "parent_html": "https://zenodo.org/records/2528729",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528730/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528730/sequence/default",
+            "files": "https://zenodo.org/api/records/2528730/files",
+            "media_files": "https://zenodo.org/api/records/2528730/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528730:Poster-Lemenkova-10HGSCongress.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528730:Poster-Lemenkova-10HGSCongress.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528730:Poster-Lemenkova-10HGSCongress.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528730:Poster-Lemenkova-10HGSCongress.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528730:Poster-Lemenkova-10HGSCongress.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528730:Poster-Lemenkova-10HGSCongress.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528730/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528730/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528730/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528730/latest",
+            "versions": "https://zenodo.org/api/records/2528730/versions",
+            "draft": "https://zenodo.org/api/records/2528730/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528730/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528730/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528730/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528730/access/users",
+            "access_request": "https://zenodo.org/api/records/2528730/access/request",
+            "access": "https://zenodo.org/api/records/2528730/access",
+            "communities": "https://zenodo.org/api/records/2528730/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528730/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528730/requests"
+        },
+        "updated": "2024-07-25T03:06:58.917368+00:00",
+        "recid": "2528730",
+        "revision": 8,
+        "files": [
+            {
+                "id": "5cc5d166-87db-4377-9b5b-43ee3306a7fd",
+                "key": "Poster-Lemenkova-10HGSCongress.pdf",
+                "size": 1450489,
+                "checksum": "md5:b9b0767cf9e787e50ea697223e81ba3b",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528730/files/Poster-Lemenkova-10HGSCongress.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "55845"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 38,
+            "unique_downloads": 36,
+            "views": 44,
+            "unique_views": 43,
+            "version_downloads": 38,
+            "version_unique_downloads": 36,
+            "version_unique_views": 43,
+            "version_views": 44
+        },
+        "state": "done",
+        "submitted": true
+    },
+    "5": {
+        "created": "2018-12-29T11:28:40.000426+00:00",
+        "modified": "2024-07-25T03:06:58.332838+00:00",
+        "id": 2528732,
+        "conceptrecid": "2528731",
+        "doi": "10.5281/zenodo.2528732",
+        "conceptdoi": "10.5281/zenodo.2528731",
+        "doi_url": "https://doi.org/10.5281/zenodo.2528732",
+        "metadata": {
+            "title": "Integrated evaluation of the sustainability of the Noir de Bigorre pork chain",
+            "doi": "10.5281/zenodo.2528732",
+            "publication_date": "2018-08-27",
+            "description": "<p>The social expectation for more sustainable livestock farming systems is growing. However, multidisciplinary approaches to assess the sustainability of pig farming systems are not sufficiently addressed. Twenty-five farms of local pig breed&rsquo;s production in France (Noir de Bigorre chain &ndash; Gascon breed) were evaluated altogether in terms of environmental impacts<br>\n(EN), economic sustainability (EC) and animal welfare (AW), using multiple factor analysis (MFA) and hierarchical clustering (HC). The first dimension of MFA (22.7% the total variance) was mainly associated to the EN (r=0.56) and AW (r=0.52), while the second (20.8% of the total variance) was linked to EC (r=0.41). The HC resulted in the identification of four groups: Group 1 comprised farrow-to-finish farms, with a farmer aged between 20-30 years-old, characterized by high EN, high dietary crude protein (CP) of fattening feeds and feed conversion ratio (FCR), low AW, and usually low EC. It could be described as &lsquo;sustainability unfavourable&rsquo;, with an overall inefficient management of the farm, when the high FCR could be a result of the high feed waste. Group 2, composed by 75% of feeder-to-finish farms, was characterized by high transferability, high land occupation (LO), and low AW. It could be described as &lsquo;AW unfavourable and Transferability favourable&rsquo;; maybe due to the high LO, animals were raised with lower level of care. Group 3 comprised farrow-to-finish farms managed by a man, and characterized by high EC, high number of sows and low EN per ha. It could be described as &lsquo;EC and EN favourable&rsquo;, described by high farm size and good management practices. Group 4, characterized by high AW and low EN, could be described as &lsquo;AW and EN favourable&rsquo;, with more attention to AW and lower surface available to pig production. The use of an integrated evaluation highlights different profiles of farmers which are associated with various results in the different themes considered. Based on complementary themes, it provides a broader representation of the sustainability of pig farming systems than the use of one theme. Funded by European Union&rsquo;s H2020 RIA program (grant agreement no. 634476).</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Monteiro, ANTR",
+                    "affiliation": "PEGASE, INRA, Agrocampus Ouest, 35590 Saint-Gilles, France"
+                },
+                {
+                    "name": "Faure, J",
+                    "affiliation": "PEGASE, INRA, Agrocampus Ouest, 35590 Saint-Gilles, France"
+                },
+                {
+                    "name": "Meunier-Salaün, MC",
+                    "affiliation": "PEGASE, INRA, Agrocampus Ouest, 35590 Saint-Gilles, France"
+                },
+                {
+                    "name": "Wilfart, A",
+                    "affiliation": "SAS, INRA, Agrocampus Ouest, 35000 Rennes, France"
+                },
+                {
+                    "name": "Garcia-Launay, F",
+                    "affiliation": "PEGASE, INRA, Agrocampus Ouest, 35590 Saint-Gilles, France"
+                }
+            ],
+            "language": "eng",
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "meeting": {
+                "title": "69th Annual Meeting of the European Federation of Animal Science",
+                "dates": "27 – 31 August, 2018",
+                "place": "Dubrovnick, Croatia",
+                "url": "http://www.eaap2018.org/",
+                "session": "49"
+            },
+            "imprint": {
+                "isbn": "978-90-8686-323-5"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "grants": [
+                {
+                    "code": "634476",
+                    "internal_id": "10.13039/501100000780::634476",
+                    "funder": {
+                        "name": "European Commission",
+                        "doi": "10.13039/501100000780",
+                        "acronym": "EC"
+                    },
+                    "title": "DIVERSITY OF LOCAL PIG BREEDS AND PRODUCTION SYSTEMS FOR HIGH QUALITY TRADITIONAL PRODUCTS AND SUSTAINABLE PORK CHAINS",
+                    "acronym": "TREASURE",
+                    "program": "H2020-EU.3.2.",
+                    "url": "https://cordis.europa.eu/projects/634476"
+                }
+            ],
+            "communities": [
+                {
+                    "id": "eu"
+                },
+                {
+                    "id": "h2020_treasure"
+                }
+            ],
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528731"
+                        }
+                    }
+                ]
+            }
+        },
+        "title": "Integrated evaluation of the sustainability of the Noir de Bigorre pork chain",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528732",
+            "self_html": "https://zenodo.org/records/2528732",
+            "doi": "https://doi.org/10.5281/zenodo.2528732",
+            "self_doi": "https://doi.org/10.5281/zenodo.2528732",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528732",
+            "parent": "https://zenodo.org/api/records/2528731",
+            "parent_html": "https://zenodo.org/records/2528731",
+            "parent_doi": "https://doi.org/10.5281/zenodo.2528731",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528731",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528732/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528732/sequence/default",
+            "files": "https://zenodo.org/api/records/2528732/files",
+            "media_files": "https://zenodo.org/api/records/2528732/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528732:ABSTRACT%20EAAP%202018%20S49P30.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528732:ABSTRACT%20EAAP%202018%20S49P30.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528732:ABSTRACT%20EAAP%202018%20S49P30.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528732:ABSTRACT%20EAAP%202018%20S49P30.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528732:ABSTRACT%20EAAP%202018%20S49P30.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528732:ABSTRACT%20EAAP%202018%20S49P30.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528732/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528732/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528732/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528732/latest",
+            "versions": "https://zenodo.org/api/records/2528732/versions",
+            "draft": "https://zenodo.org/api/records/2528732/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528732/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528732/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528732/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528732/access/users",
+            "access_request": "https://zenodo.org/api/records/2528732/access/request",
+            "access": "https://zenodo.org/api/records/2528732/access",
+            "communities": "https://zenodo.org/api/records/2528732/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528732/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528732/requests"
+        },
+        "updated": "2024-07-25T03:06:58.332838+00:00",
+        "recid": "2528732",
+        "revision": 10,
+        "files": [
+            {
+                "id": "0f6e2e16-b655-4f40-9c03-840b7f05c8c7",
+                "key": "ABSTRACT EAAP 2018 S49P30.pdf",
+                "size": 422652,
+                "checksum": "md5:8f307d241e56ef62210d9473378550d6",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528732/files/ABSTRACT EAAP 2018 S49P30.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "40274"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 32,
+            "unique_downloads": 30,
+            "views": 36,
+            "unique_views": 32,
+            "version_downloads": 32,
+            "version_unique_downloads": 30,
+            "version_unique_views": 32,
+            "version_views": 36
+        },
+        "state": "done",
+        "submitted": true
+    },
+    "6": {
+        "created": "2018-12-29T11:22:36.863577+00:00",
+        "modified": "2024-07-25T03:07:01.438480+00:00",
+        "id": 2528720,
+        "conceptrecid": "2528719",
+        "doi": "10.5281/zenodo.2528720",
+        "conceptdoi": "10.5281/zenodo.2528719",
+        "doi_url": "https://doi.org/10.5281/zenodo.2528720",
+        "metadata": {
+            "title": "Changes in carcass and meat traits during the montanera finishing period of Iberian pigs",
+            "doi": "10.5281/zenodo.2528720",
+            "publication_date": "2018-08-27",
+            "description": "<p>Iberian pigs are usually slaughtered at an average body weight (BW) of 160 kg. The free-range, acorn-feeding montanera starts at an average weight of 100 kg, lasts for 2.5-3 months, and pigs gain around 60 kg during this period. During this extensive finishing, the weight gain is mostly based on subcutaneous and intramuscular fat accretion, but other changes in carcass and meat composition may occur as well. This study (made in TREASURE project) evaluated the changes in carcass and meat composition occurred in Iberian pigs between the end of premontanera (pre-finishing period) and the end of montanera, as assessed in animals slaughtered at 110 and 160 kg BW, respectively. Castrate male Iberian pigs (n=45) were randomly assigned to 2 treatments (2 slaughter times) and raised on concentrate up to 110 kg BW. At this point, 15 pigs were slaughtered, and the remaining 30 pigs were finished in montanera with acorns and grass and were slaughtered at an average BW of 158 kg. Carcass and several meat traits were evaluated in both cases. In general, carcass fat (subcutaneous and intramuscular) increased significantly during the finishing period, with the exception of loin weight and area and the outer backfat layer, that remained unchanged after the finishing period. Hip height and ham length did not change, but carcass length increased significantly after finishing. In relation to meat colour, only the b index (blue to yellow) was significantly greater in finished pigs. Regarding backfat fatty acid profiles, PUFA and SFA decreased and MUFA&nbsp; increased significantly after the montanera finishing period, but C18:3 remained unchanged. In conclusion, pre-finishing Iberian pigs (at 110 kg BW) had similar muscle accretion, hip height, outer backfat layer thickness and C18:3 proportion than the finished ones. The BW gain during montanera was essentially based on fat deposition, and finishing increased the proportion of MUFA and decreased that of PUFA and SFA. Funded by European Union&rsquo;s H2020 RIA program (grant agreement no. 634476).</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Izquierdo, M",
+                    "affiliation": "Center of Scientific & Technological Research of Extremadura (CICYTEX), Autovía A5, Km 372, 06187 Guadajira (Badajoz), Spain"
+                },
+                {
+                    "name": "Hernández-García, FI",
+                    "affiliation": "Center of Scientific & Technological Research of Extremadura (CICYTEX), Autovía A5, Km 372, 06187 Guadajira (Badajoz), Spain"
+                },
+                {
+                    "name": "Garrido, N",
+                    "affiliation": "Center of Scientific & Technological Research of Extremadura (CICYTEX), Autovía A5, Km 372, 06187 Guadajira (Badajoz), Spain"
+                },
+                {
+                    "name": "García-Gudiño, J",
+                    "affiliation": "IRTA, Finca Camps i Armet, Monells, Gerona, Spain"
+                },
+                {
+                    "name": "Matías, J",
+                    "affiliation": "Center of Scientific & Technological Research of Extremadura (CICYTEX), Autovía A5, Km 372, 06187 Guadajira (Badajoz), Spain"
+                },
+                {
+                    "name": "Cuadrado, I",
+                    "affiliation": "Center of Scientific & Technological Research of Extremadura (CICYTEX), Autovía A5, Km 372, 06187 Guadajira (Badajoz), Spain"
+                },
+                {
+                    "name": "Pérez, MI",
+                    "affiliation": "Center of Scientific & Technological Research of Extremadura (CICYTEX), Autovía A5, Km 372, 06187 Guadajira (Badajoz), Spain"
+                }
+            ],
+            "language": "eng",
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "meeting": {
+                "title": "69th Annual Meeting of the European Federation of Animal Science",
+                "dates": "27 – 31 August, 2018",
+                "place": "Dubrovnick, Croatia",
+                "url": "http://www.eaap2018.org/",
+                "session": "49"
+            },
+            "imprint": {
+                "isbn": "978-90-8686-323-5"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "grants": [
+                {
+                    "code": "634476",
+                    "internal_id": "10.13039/501100000780::634476",
+                    "funder": {
+                        "name": "European Commission",
+                        "doi": "10.13039/501100000780",
+                        "acronym": "EC"
+                    },
+                    "title": "DIVERSITY OF LOCAL PIG BREEDS AND PRODUCTION SYSTEMS FOR HIGH QUALITY TRADITIONAL PRODUCTS AND SUSTAINABLE PORK CHAINS",
+                    "acronym": "TREASURE",
+                    "program": "H2020-EU.3.2.",
+                    "url": "https://cordis.europa.eu/projects/634476"
+                }
+            ],
+            "communities": [
+                {
+                    "id": "eu"
+                },
+                {
+                    "id": "h2020_treasure"
+                }
+            ],
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528719"
+                        }
+                    }
+                ]
+            }
+        },
+        "title": "Changes in carcass and meat traits during the montanera finishing period of Iberian pigs",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528720",
+            "self_html": "https://zenodo.org/records/2528720",
+            "doi": "https://doi.org/10.5281/zenodo.2528720",
+            "self_doi": "https://doi.org/10.5281/zenodo.2528720",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528720",
+            "parent": "https://zenodo.org/api/records/2528719",
+            "parent_html": "https://zenodo.org/records/2528719",
+            "parent_doi": "https://doi.org/10.5281/zenodo.2528719",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528719",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528720/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528720/sequence/default",
+            "files": "https://zenodo.org/api/records/2528720/files",
+            "media_files": "https://zenodo.org/api/records/2528720/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528720:ABSTRACT%20EAAP%202018%20S49P28.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528720:ABSTRACT%20EAAP%202018%20S49P28.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528720:ABSTRACT%20EAAP%202018%20S49P28.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528720:ABSTRACT%20EAAP%202018%20S49P28.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528720:ABSTRACT%20EAAP%202018%20S49P28.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528720:ABSTRACT%20EAAP%202018%20S49P28.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528720/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528720/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528720/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528720/latest",
+            "versions": "https://zenodo.org/api/records/2528720/versions",
+            "draft": "https://zenodo.org/api/records/2528720/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528720/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528720/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528720/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528720/access/users",
+            "access_request": "https://zenodo.org/api/records/2528720/access/request",
+            "access": "https://zenodo.org/api/records/2528720/access",
+            "communities": "https://zenodo.org/api/records/2528720/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528720/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528720/requests"
+        },
+        "updated": "2024-07-25T03:07:01.438480+00:00",
+        "recid": "2528720",
+        "revision": 9,
+        "files": [
+            {
+                "id": "8faa1fe1-0c78-42e1-85a2-7472fe933714",
+                "key": "ABSTRACT EAAP 2018 S49P28.pdf",
+                "size": 421436,
+                "checksum": "md5:ac309b3930b219bdfa40fcd1f380ada7",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528720/files/ABSTRACT EAAP 2018 S49P28.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "40274"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 36,
+            "unique_downloads": 35,
+            "views": 47,
+            "unique_views": 45,
+            "version_downloads": 36,
+            "version_unique_downloads": 35,
+            "version_unique_views": 45,
+            "version_views": 47
+        },
+        "state": "done",
+        "submitted": true
+    },
+    "7": {
+        "created": "2018-12-29T11:15:54.367394+00:00",
+        "modified": "2024-07-25T03:07:03.834934+00:00",
+        "id": 2528712,
+        "conceptrecid": "2528711",
+        "doi": "10.13140/RG.2.2.10077.05600",
+        "doi_url": "https://doi.org/10.13140/RG.2.2.10077.05600",
+        "metadata": {
+            "title": "Economic Assessment of Landslide Risk for the Waidhofen a.d. Ybbs Region, Alpine Foreland, Lower Austria",
+            "doi": "10.13140/RG.2.2.10077.05600",
+            "publication_date": "2012-06-02",
+            "description": "<p>This research aims to assess potential risk and estimate economic damage caused by landslides. The study area is located in the Ybbs valley, Lower Austria (Fig.1). Methodology consists of Arc GIS based spatial analysis and estimation of the potential monetary losses caused by landslides. Spatial analysis was used for defining elements at risk located in the risk zone of 100 m near landslides, and assessment of potential consequences. Results: calculated possible losses caused by the destruction of immobility and transport: costs for buildings demolition, restoration, roads rebuilding, debris transport, excavation and removal.</p>\n\n<p>Research Area. The region of Ybbs valley is located in mountainous Alpine Foreland, Austria. It covers a total area of 131.3 km2. The environmental conditions of the the Ybbs valley are especially prone to landslides: Geology: deposits of gravel, sand, marl, conglomerate, calcareous sandstone and clay. Most of the region is used as pasture, agricultural land, and large forests. Climatic humid to continental. Intensive rainfalls in spring and autumn months. The region is attractive for tourists due to its environmental and historical value.</p>\n\n<p>Methods. The geographic location of the landslides within the Ybbs valley was used to define risk zones.</p>\n\n<ul>\n\t<li>Risk zone: 100-meter buffer area surrounding all landslides downwards, as a landslide with volume of 1 km3 may reach 100 meters while moving.</li>\n\t<li>Elements at risk: The objects located in the 100 meter distance downwards the landslides are regarded as elements at risk.</li>\n\t<li>Estimation of the economic losses: The methodology is proposed by Giacometti (2005) was applied for Ybbs valley using real estate prices for common goods (immobility, roads).</li>\n</ul>\n\n<p>Calculations of the economic losses (in &euro;) was done based on the average real estate prices for various aspects of renovation, reconstruction and rebuilding of the destroyed objects.</p>\n\n<p>Defining elements at risk The elements at risk were selected in 100-meter buffer area near the landslides. The length and number of the elements at risk within the distance of 100 m near landslides totals to 20.9 km of railway lines, 13.5 km of roads and 641 buildings.</p>\n\n<p>Calculation the economic losses. The calculation of the real estate losses is computed from the calculation of five different types of costs:</p>\n\n<ol>\n\t<li>demolition,</li>\n\t<li>transport and disposal debris,</li>\n\t<li>restoration of inner walls,</li>\n\t<li>furniture restoration and</li>\n\t<li>house construction.</li>\n</ol>\n\n<p>The average volume to demolish damaged buildings indicated the dimensions of the losses of ca. 13.65 M &euro;. The estimated price for the debris removal is approx. 3.6 M &euro;, in case buildings are totally affected and covered. The restoration of the inner walls is based on average prices for building restoration and approximate surface of the walls, which totally estimates 2.73 M &euro;. Using approximate prices of the furniture costs in a typical house the costs for furniture renovation is &euro; 190,500. Cost for house construction is computed using real estate prices and average house area in m2 which sums up to &euro; 349,250. The losses for transport include costs to rebuild a road, a railway, and a restoration of the roads. A total of almost 140 M &euro; would have to be invested for the renovation of the Ybbs valley in case of a landslides disaster</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Lemenkova, Polina",
+                    "affiliation": "Ocean University of China, College of Marine Geoscience",
+                    "orcid": "0000-0002-5759-1089"
+                },
+                {
+                    "name": "Glade, Thomas",
+                    "affiliation": null
+                },
+                {
+                    "name": "Promper, Catrin",
+                    "affiliation": null
+                }
+            ],
+            "keywords": [
+                "risk assessment",
+                "hazards",
+                "landslide risks",
+                "economic losses",
+                "economic geography",
+                "geomorphology",
+                "Austrian Alps",
+                "landslides",
+                "mountainour areas",
+                "debris"
+            ],
+            "related_identifiers": [
+                {
+                    "identifier": "10.13140/RG.2.2.10077.05600",
+                    "relation": "isIdenticalTo",
+                    "scheme": "doi"
+                }
+            ],
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528711"
+                        }
+                    }
+                ]
+            },
+            "notes": "P. Lemenkova, C. Promper, and T. Glade. Economic Assessment of Landslide Risk for the Waidhofen a.d. Ybbs Region, Alpine Foreland, Lower Austria. 11th International Sympo- sium on Landslides and the 2nd North American Symposium on Landslides and Engineered Slopes (NASL). Protecting Society through Improved Understanding. 2012 June 02-08. Canada, Banff (Alberta), Banff Springs Hotel, 2012. doi: 10.13140/RG.2.2.10077. 05600."
+        },
+        "title": "Economic Assessment of Landslide Risk for the Waidhofen a.d. Ybbs Region, Alpine Foreland, Lower Austria",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528712",
+            "self_html": "https://zenodo.org/records/2528712",
+            "doi": "https://doi.org/10.13140/RG.2.2.10077.05600",
+            "self_doi": "https://doi.org/10.13140/RG.2.2.10077.05600",
+            "self_doi_html": "https://zenodo.org/doi/10.13140/RG.2.2.10077.05600",
+            "parent": "https://zenodo.org/api/records/2528711",
+            "parent_html": "https://zenodo.org/records/2528711",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528712/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528712/sequence/default",
+            "files": "https://zenodo.org/api/records/2528712/files",
+            "media_files": "https://zenodo.org/api/records/2528712/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528712:Lemenkova_etal_Poster_Ybbs.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528712:Lemenkova_etal_Poster_Ybbs.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528712:Lemenkova_etal_Poster_Ybbs.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528712:Lemenkova_etal_Poster_Ybbs.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528712:Lemenkova_etal_Poster_Ybbs.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528712:Lemenkova_etal_Poster_Ybbs.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528712/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528712/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528712/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528712/latest",
+            "versions": "https://zenodo.org/api/records/2528712/versions",
+            "draft": "https://zenodo.org/api/records/2528712/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528712/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528712/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528712/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528712/access/users",
+            "access_request": "https://zenodo.org/api/records/2528712/access/request",
+            "access": "https://zenodo.org/api/records/2528712/access",
+            "communities": "https://zenodo.org/api/records/2528712/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528712/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528712/requests"
+        },
+        "updated": "2024-07-25T03:07:03.834934+00:00",
+        "recid": "2528712",
+        "revision": 8,
+        "files": [
+            {
+                "id": "93397dc4-736f-45c0-b144-a9dbb8affff2",
+                "key": "Lemenkova_etal_Poster_Ybbs.pdf",
+                "size": 2350118,
+                "checksum": "md5:b0b78fcaf818ddd67e403e4928cceab0",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528712/files/Lemenkova_etal_Poster_Ybbs.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "55845"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 42,
+            "unique_downloads": 38,
+            "views": 41,
+            "unique_views": 40,
+            "version_downloads": 42,
+            "version_unique_downloads": 38,
+            "version_unique_views": 40,
+            "version_views": 41
+        },
+        "state": "done",
+        "submitted": true
+    },
+    "8": {
+        "created": "2018-12-29T11:15:47.654425+00:00",
+        "modified": "2024-07-25T03:07:02.641863+00:00",
+        "id": 2528716,
+        "conceptrecid": "2528715",
+        "doi": "10.5281/zenodo.2528716",
+        "conceptdoi": "10.5281/zenodo.2528715",
+        "doi_url": "https://doi.org/10.5281/zenodo.2528716",
+        "metadata": {
+            "title": "Gut microbiota composition of Turopolje pigs in outdoor production and acorn supplementation",
+            "doi": "10.5281/zenodo.2528716",
+            "publication_date": "2018-08-27",
+            "description": "<p>The Turopolje pig is a local porcine breed originating from Croatia characterised by its rusticity and adaptation to the traditional outdoor farming system linked to local oak forests. While this once-widespread breed was almost completely replaced by industrial breeds in the second half of the 20th century, there is growing interest on promoting its production in the framework of sustainable porcine production. The objective of our study (made in project TREASURE) was to<br>\ncharacterise the gut microbiota composition in 24 Turopolje pigs raised outdoor by using a conventional feed vs a conventional feed supplemented with acorns. The gut microbiota composition of all pigs was determined by re-sequencing the bacterial 16S gene in an Illumina MiSeq device. Bioinformatics analyses were performed by using Qiime&rsquo;s open-reference OTU calling subsampled method following author&rsquo;s recommendations. NMDS and PERMANOVA analyses performed by using the Vegan R package showed significant effects of diet, showing that the acorn supplementation has a relevant impact on gut microbiota, notably by reducing richness and diversity. This result was confirmed in the differential abundance analysis which showed that 152 out of 1,466 OTUs were significantly different between the two groups. Interestingly, the predicted microbiota metabolic functions that were differentially abundant involved fatty acid and amino-acid metabolisms. Funded by European Union&rsquo;s H2020 RIA program (Grant agreement no. 634476).</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Estellé, J",
+                    "affiliation": "INRA, UMR GABI, AgroParisTech, Université Paris-Saclay, Domaine de Vilvert, Jouy-en-Josas, France"
+                },
+                {
+                    "name": "Massacci, FR",
+                    "affiliation": "INRA, UMR GABI, AgroParisTech, Université Paris-Saclay, Domaine de Vilvert, Jouy-en-Josas, France"
+                },
+                {
+                    "name": "Esquerré, D",
+                    "affiliation": "INRA, US 1426 GeT-PlaGe, Genotoul, Castanet-Tolosan, Toulouse, France"
+                },
+                {
+                    "name": "Jardet, D",
+                    "affiliation": "INRA, UMR GABI, AgroParisTech, Université Paris-Saclay, Domaine de Vilvert, Jouy-en-Josas, France"
+                },
+                {
+                    "name": "Lemonnier, G",
+                    "affiliation": "INRA, UMR GABI, AgroParisTech, Université Paris-Saclay, Domaine de Vilvert, Jouy-en-Josas, France"
+                },
+                {
+                    "name": "Óvilo, C",
+                    "affiliation": "INIA, Dpto. Mejora Genética Animal, Ctra. de la Coruña, Madrid, Spain"
+                },
+                {
+                    "name": "Čandek-Potokar, M",
+                    "affiliation": "Agricultural Institute of Slovenia, Hacquetova 17, Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Salajpal, K",
+                    "affiliation": "University of Zagreb, Faculty of agriculture, Zagreb, Croatia"
+                },
+                {
+                    "name": "Karolyi, D",
+                    "affiliation": "University of Zagreb, Faculty of agriculture, Zagreb, Croatia"
+                }
+            ],
+            "language": "eng",
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "meeting": {
+                "title": "69th Annual Meeting of the European Federation of Animal Science",
+                "dates": "27 – 31 August, 2018",
+                "place": "Dubrovnick, Croatia",
+                "url": "http://www.eaap2018.org/",
+                "session": "49"
+            },
+            "imprint": {
+                "isbn": "978-90-8686-323-5"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "grants": [
+                {
+                    "code": "634476",
+                    "internal_id": "10.13039/501100000780::634476",
+                    "funder": {
+                        "name": "European Commission",
+                        "doi": "10.13039/501100000780",
+                        "acronym": "EC"
+                    },
+                    "title": "DIVERSITY OF LOCAL PIG BREEDS AND PRODUCTION SYSTEMS FOR HIGH QUALITY TRADITIONAL PRODUCTS AND SUSTAINABLE PORK CHAINS",
+                    "acronym": "TREASURE",
+                    "program": "H2020-EU.3.2.",
+                    "url": "https://cordis.europa.eu/projects/634476"
+                }
+            ],
+            "communities": [
+                {
+                    "id": "eu"
+                },
+                {
+                    "id": "h2020_treasure"
+                }
+            ],
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528715"
+                        }
+                    }
+                ]
+            }
+        },
+        "title": "Gut microbiota composition of Turopolje pigs in outdoor production and acorn supplementation",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528716",
+            "self_html": "https://zenodo.org/records/2528716",
+            "doi": "https://doi.org/10.5281/zenodo.2528716",
+            "self_doi": "https://doi.org/10.5281/zenodo.2528716",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528716",
+            "parent": "https://zenodo.org/api/records/2528715",
+            "parent_html": "https://zenodo.org/records/2528715",
+            "parent_doi": "https://doi.org/10.5281/zenodo.2528715",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528715",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528716/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528716/sequence/default",
+            "files": "https://zenodo.org/api/records/2528716/files",
+            "media_files": "https://zenodo.org/api/records/2528716/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528716:ABSTRACT%20EAAP%202018%20S49P27.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528716:ABSTRACT%20EAAP%202018%20S49P27.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528716:ABSTRACT%20EAAP%202018%20S49P27.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528716:ABSTRACT%20EAAP%202018%20S49P27.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528716:ABSTRACT%20EAAP%202018%20S49P27.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528716:ABSTRACT%20EAAP%202018%20S49P27.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528716/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528716/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528716/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528716/latest",
+            "versions": "https://zenodo.org/api/records/2528716/versions",
+            "draft": "https://zenodo.org/api/records/2528716/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528716/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528716/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528716/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528716/access/users",
+            "access_request": "https://zenodo.org/api/records/2528716/access/request",
+            "access": "https://zenodo.org/api/records/2528716/access",
+            "communities": "https://zenodo.org/api/records/2528716/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528716/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528716/requests"
+        },
+        "updated": "2024-07-25T03:07:02.641863+00:00",
+        "recid": "2528716",
+        "revision": 9,
+        "files": [
+            {
+                "id": "4c2e02d4-7806-4897-ae2d-032063cd2c4f",
+                "key": "ABSTRACT EAAP 2018 S49P27.pdf",
+                "size": 418968,
+                "checksum": "md5:49ea596012f9387d3ba5904f2a18ba5a",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528716/files/ABSTRACT EAAP 2018 S49P27.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "40274"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 31,
+            "unique_downloads": 30,
+            "views": 42,
+            "unique_views": 41,
+            "version_downloads": 31,
+            "version_unique_downloads": 30,
+            "version_unique_views": 41,
+            "version_views": 42
+        },
+        "state": "done",
+        "submitted": true
+    },
+    "9": {
+        "created": "2018-12-29T11:07:47.295443+00:00",
+        "modified": "2024-07-25T03:07:04.506867+00:00",
+        "id": 2528710,
+        "conceptrecid": "2528709",
+        "doi": "10.5281/zenodo.2528710",
+        "conceptdoi": "10.5281/zenodo.2528709",
+        "doi_url": "https://doi.org/10.5281/zenodo.2528710",
+        "metadata": {
+            "title": "Gut microbiota composition in Krškopolje pigs under conventional and organic production systems",
+            "doi": "10.5281/zenodo.2528710",
+            "publication_date": "2018-08-27",
+            "description": "<p>The Kr&scaron;kopolje pig is the only indigenous Slovenian pig breed being still farmed. The breed is characterised by its rusticity and adaptation to the traditional farming system and has a black coat colour with a white belt across shoulders and forelegs. Despite the limited number of animals, the breed is on the way of becoming more sustainable due to the growing interest for local traditional breeds, in particular for organic farming. The objective of our study (made within project TREASURE) was to characterise the gut microbiota composition in 36 Kr&scaron;kopolje pigs raised by using three different diets: conventional feed, conventional feed supplemented with alfalfa pellets and organic feed supplemented with alfalfa hay. The gut microbiota composition of all pigs at two time points (155 and 228 days-ofage) was determined by resequencing the bacterial 16S gene in an Illumina MiSeq. Bioinformatics analyses were performed by using Qiime&rsquo;s open-reference OTU calling subsampled method following author&rsquo;s recommendations. NMDS and PERMANOVA analyses performed by the Vegan R package showed significant effects of dietary regime, showing that the organic feed produces a differentiation of the gut microbiota composition when compared with the other two diets and the two time points analysed. This pilot study illustrates the power of metagenomic analyses for the identification of effects of diets in the farming conditions of local European pig breeds. Funded by European Union&rsquo;s H2020 RIA program (Grant agreement no. 634476).</p>",
+            "access_right": "open",
+            "creators": [
+                {
+                    "name": "Estellé, J",
+                    "affiliation": "GABI, INRA, AgroParisTech, Université Paris-Saclay, Domaine de Vilvert, Jouy-en-Josas, France"
+                },
+                {
+                    "name": "Massacci, FR",
+                    "affiliation": "GABI, INRA, AgroParisTech, Université Paris-Saclay, Domaine de Vilvert, Jouy-en-Josas, France"
+                },
+                {
+                    "name": "Esquerré, D",
+                    "affiliation": "INRA, US 1426 GeT-PlaGe, Genotoul, Castanet-Tolosan, Toulouse, France"
+                },
+                {
+                    "name": "Jardet, D",
+                    "affiliation": "GABI, INRA, AgroParisTech, Université Paris-Saclay, Domaine de Vilvert, Jouy-en-Josas, France"
+                },
+                {
+                    "name": "Lemonnier, G",
+                    "affiliation": "GABI, INRA, AgroParisTech, Université Paris-Saclay, Domaine de Vilvert, Jouy-en-Josas, France"
+                },
+                {
+                    "name": "Óvilo, C",
+                    "affiliation": "INIA, Dpto. Mejora Genética Animal, Ctra. de la Coruña, Madrid, Spain"
+                },
+                {
+                    "name": "Škrlep, M",
+                    "affiliation": "Agricultural Institute of Slovenia, Hacquetova 17, Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Poklukar, K",
+                    "affiliation": "Agricultural Institute of Slovenia, Hacquetova 17, Ljubljana, Slovenia"
+                },
+                {
+                    "name": "Čandek-Potokar, M",
+                    "affiliation": "Agricultural Institute of Slovenia, Hacquetova 17, Ljubljana, Slovenia"
+                }
+            ],
+            "language": "eng",
+            "resource_type": {
+                "title": "Poster",
+                "type": "poster"
+            },
+            "meeting": {
+                "title": "69th Annual Meeting of the European Federation of Animal Science",
+                "dates": "27 – 31 August, 2018",
+                "place": "Dubrovnick, Croatia",
+                "url": "http://www.eaap2018.org/",
+                "session": "49"
+            },
+            "imprint": {
+                "isbn": "978-90-8686-323-5"
+            },
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "grants": [
+                {
+                    "code": "634476",
+                    "internal_id": "10.13039/501100000780::634476",
+                    "funder": {
+                        "name": "European Commission",
+                        "doi": "10.13039/501100000780",
+                        "acronym": "EC"
+                    },
+                    "title": "DIVERSITY OF LOCAL PIG BREEDS AND PRODUCTION SYSTEMS FOR HIGH QUALITY TRADITIONAL PRODUCTS AND SUSTAINABLE PORK CHAINS",
+                    "acronym": "TREASURE",
+                    "program": "H2020-EU.3.2.",
+                    "url": "https://cordis.europa.eu/projects/634476"
+                }
+            ],
+            "communities": [
+                {
+                    "id": "eu"
+                },
+                {
+                    "id": "h2020_treasure"
+                }
+            ],
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2528709"
+                        }
+                    }
+                ]
+            }
+        },
+        "title": "Gut microbiota composition in Krškopolje pigs under conventional and organic production systems",
+        "links": {
+            "self": "https://zenodo.org/api/records/2528710",
+            "self_html": "https://zenodo.org/records/2528710",
+            "doi": "https://doi.org/10.5281/zenodo.2528710",
+            "self_doi": "https://doi.org/10.5281/zenodo.2528710",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528710",
+            "parent": "https://zenodo.org/api/records/2528709",
+            "parent_html": "https://zenodo.org/records/2528709",
+            "parent_doi": "https://doi.org/10.5281/zenodo.2528709",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2528709",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2528710/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2528710/sequence/default",
+            "files": "https://zenodo.org/api/records/2528710/files",
+            "media_files": "https://zenodo.org/api/records/2528710/media-files",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2528710:ABSTRACT%20EAAP%202018%20S49P26.pdf/full/^10,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2528710:ABSTRACT%20EAAP%202018%20S49P26.pdf/full/^50,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2528710:ABSTRACT%20EAAP%202018%20S49P26.pdf/full/^100,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2528710:ABSTRACT%20EAAP%202018%20S49P26.pdf/full/^250,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2528710:ABSTRACT%20EAAP%202018%20S49P26.pdf/full/^750,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2528710:ABSTRACT%20EAAP%202018%20S49P26.pdf/full/^1200,/0/default.jpg"
+            },
+            "archive": "https://zenodo.org/api/records/2528710/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2528710/media-files-archive",
+            "latest": "https://zenodo.org/api/records/2528710/versions/latest",
+            "latest_html": "https://zenodo.org/records/2528710/latest",
+            "versions": "https://zenodo.org/api/records/2528710/versions",
+            "draft": "https://zenodo.org/api/records/2528710/draft",
+            "reserve_doi": "https://zenodo.org/api/records/2528710/draft/pids/doi",
+            "access_links": "https://zenodo.org/api/records/2528710/access/links",
+            "access_grants": "https://zenodo.org/api/records/2528710/access/grants",
+            "access_users": "https://zenodo.org/api/records/2528710/access/users",
+            "access_request": "https://zenodo.org/api/records/2528710/access/request",
+            "access": "https://zenodo.org/api/records/2528710/access",
+            "communities": "https://zenodo.org/api/records/2528710/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2528710/communities-suggestions",
+            "requests": "https://zenodo.org/api/records/2528710/requests"
+        },
+        "updated": "2024-07-25T03:07:04.506867+00:00",
+        "recid": "2528710",
+        "revision": 9,
+        "files": [
+            {
+                "id": "46bfda8b-7ae5-4f2d-82c6-503f129b84f2",
+                "key": "ABSTRACT EAAP 2018 S49P26.pdf",
+                "size": 419989,
+                "checksum": "md5:47ada5b9ee55febf63f526bfda7ac4c6",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2528710/files/ABSTRACT EAAP 2018 S49P26.pdf/content"
+                }
+            }
+        ],
+        "swh": {},
+        "owners": [
+            {
+                "id": "40274"
+            }
+        ],
+        "status": "published",
+        "stats": {
+            "downloads": 26,
+            "unique_downloads": 25,
+            "views": 36,
+            "unique_views": 35,
+            "version_downloads": 26,
+            "version_unique_downloads": 25,
+            "version_unique_views": 35,
+            "version_views": 36
+        },
+        "state": "done",
+        "submitted": true
+    }
+}
