@@ -3,3 +3,4 @@ outputs/datacite.json
 .ipynb_checkpoints/main-checkpoint.ipynb
 .ipynb_checkpoints/find-posters-checkpoint.ipynb
 outputs/.ipynb_checkpoints/zenodo-checkpoint.csv
+outputs/.ipynb_checkpoints/datacite-test-checkpoint.json
