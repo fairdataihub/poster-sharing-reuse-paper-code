@@ -1,0 +1,116 @@
+Platform id on Datacite,Platform name,Platform domains,Example poster DOI,Example poster DOI link
+figshare.ars,figshare ARS,figshare.com,10.6084/m9.figshare.91250,https://doi.org/10.6084/m9.figshare.91250
+cern.zenodo,Zenodo,"openaire.cern.ch,zenodo.org",10.5281/zenodo.6937,https://doi.org/10.5281/zenodo.6937
+rg.rg,ResearchGate,rgoffice.net,10.13140/2.1.2132.5446,https://doi.org/10.13140/2.1.2132.5446
+tib.hawk,HAWK Hildesheim - Hornemann Institut,"hornemann-institut.de,salzwiki.de,saltwiki.net",10.5165/hawk-hhg/231,https://doi.org/10.5165/hawk-hhg/231
+tdl.utl,NA,NA,10.15781/t2kw22,https://doi.org/10.15781/t2kw22
+crui.infncnaf,Istituto Nazionale di Fisica Nucleare. Centro Nazionale Analisi Fotogrammi,openaccessrepository.it,10.15161/oar.it/1443085513.99,https://doi.org/10.15161/oar.it/1443085513.99
+ghsl.galter,NA,NA,10.18131/g37p4d,https://doi.org/10.18131/g37p4d
+nzau.data,Data Publishing and Discovery Service,*,10.17608/k6.auckland.2662015.v1,https://doi.org/10.17608/k6.auckland.2662015.v1
+crui.unict,Università degli Studi di Catania,unict.it,10.15169/sci-gaia:1439279619.66,https://doi.org/10.15169/sci-gaia:1439279619.66
+iu.pui,NA,NA,10.7912/c2959c,https://doi.org/10.7912/c2959c
+tib.jki,Julius Kühn-Institut,jki.bund.de,10.5073/jki.poster.2016.004,https://doi.org/10.5073/jki.poster.2016.004
+au.ir,NA,NA,10.17606/m6059n,https://doi.org/10.17606/m6059n
+bl.shef,University of Sheffield,sheffield.ac.uk,10.15131/shef.data.4772182,https://doi.org/10.15131/shef.data.4772182
+delft.uva,Universiteit van Amsterdam,*,10.21942/uva.4964909,https://doi.org/10.21942/uva.4964909
+uva.libra,NA,NA,10.18130/v3hx9p,https://doi.org/10.18130/v3hx9p
+cmu.kilthub,NA,NA,10.1184/r1/5155414,https://doi.org/10.1184/r1/5155414
+tib.kit,Karlsruher Institut für Technologie,"ubka.uni-karlsruhe.de,mediaservice-dev.bibliothek.kit.edu,dbkit-test.bibliothek.kit.edu,dbkit-test-stage.bibliothek.kit.edu",10.5445/ir/1000075582,https://doi.org/10.5445/ir/1000075582
+subgoe.dariah,Digital Research Infrastructure for the Arts and Humanities,"dariah.eu,trep.de.dariah.eu,repository.de.dariah.eu,hdl.handle.net",10.20375/0000-000b-ca52-5,https://doi.org/10.20375/0000-000b-ca52-5
+bl.brookes,Oxford Brookes University,brookes.ac.uk,10.24384/000464,https://doi.org/10.24384/000464
+tib.gfzbib,Bibliothek des Wissenschaftsparks Albert Einstein,"gfz-potsdam.de,allianz-initiative.de,pik-potsdam.de",10.2312/lis.18.01,https://doi.org/10.2312/lis.18.01
+uott.library,University of Ottawa - Library,*,10.20381/ruor-20151,https://doi.org/10.20381/ruor-20151
+hlyd.drsthh,NA,NA,10.25378/janelia.5946574,https://doi.org/10.25378/janelia.5946574
+bl.salford,University of Salford,salford.ac.uk,10.17866/rd.salford.5966209,https://doi.org/10.17866/rd.salford.5966209
+dot.dot,"Department of Transportation, National Transportation Library (DOT-NTL) Repository",*,10.21949/1500456,https://doi.org/10.21949/1500456
+bl.surrey,University of Surrey,surrey.ac.uk,10.15126/surreydata.7166483.v1,https://doi.org/10.15126/surreydata.7166483.v1
+crui.ethernet,NA,NA,10.20372/nadre:1541068506.43,https://doi.org/10.20372/nadre:1541068506.43
+kaust.kaustrepo,NA,NA,10.25781/kaust-23pel,https://doi.org/10.25781/kaust-23pel
+tib.eugraph,Eurographics,diglib.eg.org,10.2312/egve.20181374,https://doi.org/10.2312/egve.20181374
+esr.research,ESR Data and Information Repository,*,10.26091/esrnz.7930565,https://doi.org/10.26091/esrnz.7930565
+bl.dmu,De Montfort University,dmu.ac.uk,10.21253/dmu.7675790,https://doi.org/10.21253/dmu.7675790
+tib.aip,Leibniz-Institut für Astrophysik Potsdam (AIP) An der Sternwarte 16 14482 Potsdam,"aip.de,cosmosim.org,rave-survey.org,plate-archive.org",10.17876/plate/lswst/050,https://doi.org/10.17876/plate/lswst/050
+zbmed.ulbhalle,Universitäts- und Landesbibliothek Sachsen-Anhalt,"public.bibliothek.uni-halle.de,opendata.uni-halle.de,dev.opendata.uni-halle.de",10.25673/13833,https://doi.org/10.25673/13833
+tib.esgar,European Society of Gastrointestinal and Abdominal Radiology,esgar.org,10.5444/esgar2019/ee-001,https://doi.org/10.5444/esgar2019/ee-001
+nu.arch,NA,NA,10.21985/n2-40hp-px30,https://doi.org/10.21985/n2-40hp-px30
+bl.ucld,University College London,"ucl.ac.uk,e-lucid.com,cdrc.ac.uk,nshd.mrc.ac.uk,caliberresearch.org,uclb.com",10.5522/04/8668058,https://doi.org/10.5522/04/8668058
+mor.esr,NA,NA,10.26226/morressier.5d402f9a8f2158d25ec12561,https://doi.org/10.26226/morressier.5d402f9a8f2158d25ec12561
+gdcc.odum-library,NA,NA,10.17615/dwyq-s695,https://doi.org/10.17615/dwyq-s695
+tib.fuub,Universitätsbibliothek der FU Berlin Hochschulschriftenstelle u. Dokumentenserver,*,10.17169/refubium-852,https://doi.org/10.17169/refubium-852
+umass.uma,UMass Amherst Repository,*,10.7275/6s6h-ye55,https://doi.org/10.7275/6s6h-ye55
+ulbt.diglib,NA,NA,10.25651/2.2019.0001,https://doi.org/10.25651/2.2019.0001
+tib.hzdr,Helmholtz-Zentrum Dresden-Rossendorf,hzdr.de,10.14278/rodare.194,https://doi.org/10.14278/rodare.194
+uutah.usu,Utah State University,*,10.26078/ajym-ba38,https://doi.org/10.26078/ajym-ba38
+nzcu.ucrr,UC Research Repository,*,10.18124/yzqq-cv77,https://doi.org/10.18124/yzqq-cv77
+tib.fdmuh,"Universität Hamburg, Zentrum für nachhaltiges Forschungsdatenmanagement","uni-hamburg.de,fdm.uni-hamburg.de,fundus.uni-hamburg.de",10.25592/uhhfdm.669,https://doi.org/10.25592/uhhfdm.669
+gnssci.library,Library Repository,*,10.21420/m90c-5j03,https://doi.org/10.21420/m90c-5j03
+laam.ptb-oar,PTB-OAR,*,10.7795/810.20200114,https://doi.org/10.7795/810.20200114
+pitt.uls,University of Pittsburgh Libraries,*,10.18117/t5fc-m117,https://doi.org/10.18117/t5fc-m117
+msu.core,Humanities Commons CORE,*,10.17613/5dc7-7g46,https://doi.org/10.17613/5dc7-7g46
+inist.geode,GEOgraphie De l'Environnement,univ-tlse2.fr/geode-omeka/,10.26147/geode.post.4jpw-fj97,https://doi.org/10.26147/geode.post.4jpw-fj97
+odu.viva,Old Dominion University,*,10.25883/0b1e-v235,https://doi.org/10.25883/0b1e-v235
+tib.ubtum,"Technische Universität München, Universitätsbibliothek",mediatum.ub.tum.de,10.14459/2020md1544568,https://doi.org/10.14459/2020md1544568
+tib.fraunirb,Fraunhofer-Informationszentrum Raum und Bau (IRB),"publica.fraunhofer.de,publica-stage-rest.fraunhofer.de,publica-dev-rest.fraunhofer.de,publica-dev.fraunhofer.de,publica-stage.fraunhofer.de,publica-4science.fraunhofer.de,publica-4science-rest.fraunhofer.de",10.24406/iws-n-595911,https://doi.org/10.24406/iws-n-595911
+inist.ird,Institut de Recherche pour le Développement,*,10.23708/fdi:010078651,https://doi.org/10.23708/fdi:010078651
+bl.leeds,University of Leeds,"leeds.ac.uk,forestplots.net,whiterose.ac.uk",10.5518/854,https://doi.org/10.5518/854
+dk.sdub,SDU test,*,10.21996/2n6t-vt61,https://doi.org/10.21996/2n6t-vt61
+snd.bils,Bioinformatics Infrastructure for Life Sciences,bils.se,10.17044/scilifelab.12967652,https://doi.org/10.17044/scilifelab.12967652
+zbmed.oroboros,NA,NA,10.26124/mitofit:ea20.algaeurope.0001,https://doi.org/10.26124/mitofit:ea20.algaeurope.0001
+umich.library,University of Michigan Library,*,10.7302/224,https://doi.org/10.7302/224
+vewy.strathprints,NA,NA,10.17868/75592,https://doi.org/10.17868/75592
+tcd.tara,Trinity's Access to Research Archive,*,10.25546/95678,https://doi.org/10.25546/95678
+borq.00001-2020,NA,NA,10.48420/14307680,https://doi.org/10.48420/14307680
+bl.herts,University of Hertfordshire,herts.ac.uk,10.18745/pb.24322,https://doi.org/10.18745/pb.24322
+oibk.ohycfa,NA,NA,10.48505/nims.3031,https://doi.org/10.48505/nims.3031
+bl.rep-kew,"British Library Repository Test Account - Royal Botanic Gardens, Kew",*,10.34885/nfrc-bx06,https://doi.org/10.34885/nfrc-bx06
+pvre.ysjxkd,NA,NA,10.48691/sfkg-p956,https://doi.org/10.48691/sfkg-p956
+wsu.wsu,Washington State University,*,10.7273/000000040,https://doi.org/10.7273/000000040
+tug.openlib,openlib,*,10.3217/hqtde-kfs93,https://doi.org/10.3217/hqtde-kfs93
+bl.wcmc,World Conservation Monitoring Centre (WCMC),wcmc.io,10.34892/9bxs-m012,https://doi.org/10.34892/9bxs-m012
+tdl.tamu,NA,NA,10.21423/sgl.coevaxposter-20210521,https://doi.org/10.21423/sgl.coevaxposter-20210521
+tudublin.arrow,Arrow,*,10.21427/p8rs-2f05,https://doi.org/10.21427/p8rs-2f05
+zbmed.gms,German Medical Science,"egms.de,portal.dimdi.de",10.3205/mbi000510,https://doi.org/10.3205/mbi000510
+nrc.ir,NRC Digital Repository,*,10.4224/40002724,https://doi.org/10.4224/40002724
+sul.sdr,NA,NA,10.25740/wd270qk2039,https://doi.org/10.25740/wd270qk2039
+ulbt.datarep,NA,NA,10.48323/s32wf-43h54,https://doi.org/10.48323/s32wf-43h54
+lzi.drops,DROPS,*,10.4230/oasics.fab.2022.7,https://doi.org/10.4230/oasics.fab.2022.7
+unm.rds,NA,NA,10.25827/fq51-xj51,https://doi.org/10.25827/fq51-xj51
+lxfp.hlukba,NA,NA,10.48718/36bs-0t63,https://doi.org/10.48718/36bs-0t63
+qnur.data,NA,NA,10.48726/q2prv-tpd13,https://doi.org/10.48726/q2prv-tpd13
+akbild.arepository,NA,NA,10.21937/npa7-m903,https://doi.org/10.21937/npa7-m903
+inist.humanum,Huma-Num,*,10.34847/nkl.41b91lh3,https://doi.org/10.34847/nkl.41b91lh3
+delft.hva,Hogeschool van Amsterdam,*,10.21943/auas.21711053,https://doi.org/10.21943/auas.21711053
+lnav.mr,NA,NA,10.25676/11124/15845,https://doi.org/10.25676/11124/15845
+ntk.idr,Institutional Repository of NTK,*,10.48813/cav2-4r86,https://doi.org/10.48813/cav2-4r86
+viu.bayqne,VIUspace,*,10.25316/ir-18937,https://doi.org/10.25316/ir-18937
+tmej.jdeksr,NA,NA,10.48771/hs0c-a532,https://doi.org/10.48771/hs0c-a532
+pvre.aqmlok,NA,NA,10.48548/pubdata-31,https://doi.org/10.48548/pubdata-31
+bl.cam,University of Cambridge,cam.ac.uk,10.17863/cam.96819,https://doi.org/10.17863/cam.96819
+ul.ulir,NA,NA,10.34961/researchrepository-ul.23255261,https://doi.org/10.34961/researchrepository-ul.23255261
+bl.dundee,University of Dundee,"dundee.ac.uk,openmicroscopy.org",10.15132/10000238,https://doi.org/10.15132/10000238
+ohsu.ohsu,OHSU Digital Commons,*,10.6083/bpxhc41268,https://doi.org/10.6083/bpxhc41268
+rice.fondren,Fondren Library,rice.edu,10.25611/vp4t-ew66,https://doi.org/10.25611/vp4t-ew66
+iu.bl,NA,NA,10.5967/vhnk-yb44,https://doi.org/10.5967/vhnk-yb44
+uman.mspace,UMANMSPACE,*,10.34991/radt-ap85,https://doi.org/10.34991/radt-ap85
+bl.lincoln,University of Lincoln,lincoln.ac.uk,10.24385/lincoln.24591831,https://doi.org/10.24385/lincoln.24591831
+tuw.tudata,NA,NA,10.48436/nkfb5-dhk30,https://doi.org/10.48436/nkfb5-dhk30
+und.library,NA,NA,10.7274/24736404,https://doi.org/10.7274/24736404
+jbru.evs,NA,NA,10.58165/c326-kw60,https://doi.org/10.58165/c326-kw60
+ardcx.ecu,Edith Cowan University,ro.ecu.edu.au,10.25958/x4f7-dw96,https://doi.org/10.25958/x4f7-dw96
+qvvc.freidata,NA,NA,10.60493/jejyw-awk95,https://doi.org/10.60493/jejyw-awk95
+mtakik.mtakik,Magyar Tudományos Akadémia Könyvtár és Információs Központ,"real.mtak.hu,real-phd.mtak.hu,real-d.mtak.hu,real-eod.mtak.hu",10.14755/mtakik.2024.0002,https://doi.org/10.14755/mtakik.2024.0002
+dk.aau,Aalborg University Library,"vbn.aau.dk,journals.aau.dk",10.5278/aauopenalexcris,https://doi.org/10.5278/aauopenalexcris
+tib.bafg,Bundesanstalt für Gewässerkunde,bafg.de,10.5675/das_spu_2024_01,https://doi.org/10.5675/das_spu_2024_01
+csic.socib,SOCIB,*,10.25704/qwkx-v840,https://doi.org/10.25704/qwkx-v840
+eqhh.hgpcvf,NA,NA,10.60763/africarxiv/1486,https://doi.org/10.60763/africarxiv/1486
+tib.bgr,NA,NA,10.25928/y58z-4258,https://doi.org/10.25928/y58z-4258
+mfsz.vknmwy,NA,NA,10.58073/sruc.27101065,https://doi.org/10.58073/sruc.27101065
+rutgers.lib,NA,NA,10.7282/00000448,https://doi.org/10.7282/00000448
+duk.door,DOOR,*,10.48341/vsfs-jf35,https://doi.org/10.48341/vsfs-jf35
+inist.inrap,Institut national de recherches archéologiques préventives,*,10.34692/7nbh-yb24,https://doi.org/10.34692/7nbh-yb24
+mdw.repository,mdwRepository,*,10.21939/kn5j-rj68,https://doi.org/10.21939/kn5j-rj68
+vqpf.dris,NA,NA,10.25647/sciencespo.hal-04764971,https://doi.org/10.25647/sciencespo.hal-04764971
+uman.ceos,UMANCEOS,*,10.34992/ajxw-vt14,https://doi.org/10.34992/ajxw-vt14
+dlr.fl,NA,NA,10.60575/vcgx-zb88,https://doi.org/10.60575/vcgx-zb88
+gmu.ulibry,MASON,*,10.13021/mars/10094,https://doi.org/10.13021/mars/10094
+eqnn.ceres,NA,NA,10.57996/cran.ceres-2712,https://doi.org/10.57996/cran.ceres-2712
