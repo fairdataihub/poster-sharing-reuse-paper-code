@@ -6,3 +6,13 @@ outputs/.ipynb_checkpoints/zenodo-checkpoint.csv
 outputs/.ipynb_checkpoints/datacite-test-checkpoint.json
 outputs/records/datacite.json
 outputs/records/zenodo.json
+.ipynb_checkpoints/metadata-analysis-checkpoint.ipynb
+.ipynb_checkpoints/metadata-analysis-checkpoint.ipynb
+.ipynb_checkpoints/metadata-analysis-checkpoint.ipynb
+.ipynb_checkpoints/metadata-analysis-checkpoint.ipynb
+/outputs/not needed
+outputs/repository-records/.ipynb_checkpoints/zenodo-checkpoint.json
+outputs/poster-metadata/.ipynb_checkpoints/figshare-checkpoint.csv
+outputs/poster-metadata/.ipynb_checkpoints/zenodo-checkpoint.csv
+inputs/dataset/primary/repository-records/zenodo.json
+outputs/repository-records/zenodo.json
