@@ -16,3 +16,10 @@ outputs/poster-metadata/.ipynb_checkpoints/figshare-checkpoint.csv
 outputs/poster-metadata/.ipynb_checkpoints/zenodo-checkpoint.csv
 inputs/dataset/primary/repository-records/zenodo.json
 outputs/repository-records/zenodo.json
+.ipynb_checkpoints/metadata-analysis-checkpoint.ipynb
+.ipynb_checkpoints/poster-metadata-checkpoint.ipynb
+.ipynb_checkpoints/README-checkpoint.md
+/.ipynb_checkpoints
+/inputs/dataset
+/inputs/dataset
+/outputs/repository-records/.ipynb_checkpoints
