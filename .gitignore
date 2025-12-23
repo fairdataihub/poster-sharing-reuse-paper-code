@@ -20,3 +20,6 @@ outputs/repository-records/zenodo.json
 .ipynb_checkpoints/metadata-analysis-checkpoint.ipynb
 .ipynb_checkpoints/metadata-analysis-checkpoint.ipynb
 outputs/find-posters/datacite.json
+/inputs/dataset
+/.ipynb_checkpoints
+/inputs/.ipynb_checkpoints
