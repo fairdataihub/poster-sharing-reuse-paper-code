@@ -23,3 +23,4 @@ outputs/find-posters/datacite.json
 /inputs/dataset
 /.ipynb_checkpoints
 /inputs/.ipynb_checkpoints
+/outputs/citations/.ipynb_checkpoints
