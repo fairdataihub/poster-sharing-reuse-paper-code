@@ -14,9 +14,23 @@ The overall code is structured according to the FAIR-BioRS guidelines. The Pytho
 Clone the repo or download as a zip and extract.
 
 ### cd into the code folder
+Open Anaconda prompt (Windows) or the system Command line interface then naviguate to the code
+
+`cd .poster-metadata-quality-code `
+
 ### Setup conda env
+
+`$ conda env create -f environment.yml`
+
 ### Setup kernell for Jupyter lab
+```
+$ conda activate poster-metadata-quality-code
+$ conda install ipykernel
+$ ipython kernel install --user --name=<any_name_for_kernel>
+$ conda deactivate
+```
 ### Launch Jupyter lab
+Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/jupyterlab-contrib/jupyterlab_code_formatter) along with the [Black](https://github.com/psf/black) and [isort](https://github.com/PyCQA/isort) formatters to facilitate compliance with PEP8 if you are editing the notebook.
 
 ## Inputs/outputs
 The Jupyter notebook makes use of files in the dataset associated with the paper. You will need to download the dataset at add it in the input folder (call the dataset folder 'dataset').
