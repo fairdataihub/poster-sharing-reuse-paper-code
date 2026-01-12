@@ -1,4 +1,4 @@
-name: poster-code
+name: poster-metadata-quality-code
 channels:
   - defaults
   - conda-forge
