@@ -1,0 +1,18 @@
+{
+  "total_number_of_platforms": 151,
+  "unique_number_of_platforms": 104,
+  "total_nonderived_platforms": 86,
+  "searchMethod_google": 5,
+  "searchMethod_LLM": 9,
+  "searchMethod_Datacite": 67,
+  "total_nonderived_countable_platforms": 43,
+  "total_nonderived_countable_posters": 150002,
+  "yearwise_posters_sum": 55306,
+  "yearwise_posters_row_count": 4,
+  "total_shared_poster_platforms": 4,
+  "mostly_shared_poster_platforms_percent": "89.8%",
+  "total_posters_sum_with_DOI": 62830,
+  "total_poster_count_with_doi_percent": "41.89%",
+  "unique_platforms_with_DOI": 63,
+  "unique_platforms_with_DOI_percent": "73.26%"
+}
