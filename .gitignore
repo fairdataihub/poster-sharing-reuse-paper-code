@@ -25,3 +25,6 @@ outputs/find-posters/datacite.json
 /inputs/.ipynb_checkpoints
 /outputs/citations/.ipynb_checkpoints
 /outputs/poster-reuse/.ipynb_checkpoints
+/outputs/repository-records/.ipynb_checkpoints
+outputs/repository-records/zenodo.ndjson
+/outputs/poster-metadata/.ipynb_checkpoints
