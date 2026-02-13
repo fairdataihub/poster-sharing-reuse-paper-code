@@ -49,7 +49,7 @@ DATASET_PATH = BASE_PATH / "poster_metadata" / "Paper - poster metadata quality"
 OUTPUT_PATH = BASE_PATH / "poster-sharing-reuse-paper-code" / "outputs" / "analysis_results"
 
 # Input files
-COMBINED_TABLE = DATASET_PATH / "derivative" / "poster-reuse" / "combined-table-for-reuse-analysis.csv"
+COMBINED_TABLE = DATASET_PATH / "derivative" / "poster-reuse" / "combined-metadata.csv"
 CITATIONS_NDJSON = DATASET_PATH / "primary" / "citations" / "posters-citations.ndjson"
 FIGSHARE_CSV = DATASET_PATH / "derivative" / "poster-metadata" / "figshare.csv"
 ZENODO_CSV = DATASET_PATH / "derivative" / "poster-metadata" / "zenodo.csv"
