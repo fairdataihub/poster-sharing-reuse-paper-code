@@ -6,11 +6,16 @@ Scientific posters are the most common forms of scholarly communication, with mi
 ## Standards followed
 The overall code is structured according to the [FAIR-BioRS guidelines](https://fair-biors.org/). The Python code in the Jupyter notebook [main.ipynb](main.ipynb) follows the [PEP8 guidelines](https://peps.python.org/pep-0008). Functions are documented with docstring formatted following [Google's style guide](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings). All the dependencies are documented in the [environment.yml](environment.yml) file.
 
-## Using the Jupyter notebook
+## Getting Started
 
 ### Prerequisites
 
-We recommend using Anaconda to create and manage your development environment and using JupyterLab to run the notebook. All the subsequent instructions are provided assuming you are using [Anaconda (Python 3 version)](https://www.anaconda.com/products/individual) and JupyterLab.
+This project contains both Jupyter notebooks (`.ipynb`) and Python scripts (`.py`). You can set up your environment using **either** `venv` or `conda`.
+
+> **Note:** `venv` is lightweight and works well for running Python scripts. `conda` may be more convenient for managing Jupyter notebook environments. Both options install the same dependencies.
+
+- **Python 3.12+** (for venv) or **[Anaconda (Python 3 version)](https://www.anaconda.com/products/individual) / Miniconda** (for conda)
+- **Git** (to clone the repository)
 
 ### Clone the repository
 
@@ -18,29 +23,64 @@ Clone the repo or download as a zip and extract it.
 
 ### Navigate to the code directory
 
-Open Anaconda prompt (Windows) or the system Command line interface then naviguate to the code
-
+Open Anaconda prompt (Windows) or the system Command line interface then navigate to the code
 ```bash
-cd .poster-metadata-quality-code 
+cd poster-metadata-quality-code
 ```
 
-### Setup conda env
+### Setup environment
 
+#### Option A: Using venv
+
+##### 1. Create and activate the virtual environment
 ```bash
-$ conda env create -f environment.yml
+python -m venv venv
 ```
 
-### Set up Jupyter kernel
+Activate it:
+- **Windows:** `venv\Scripts\activate`
+- **macOS / Linux:** `source venv/bin/activate`
 
-```sh
-$ conda activate poster-metadata-quality-code
-$ conda install ipykernel
-$ ipython kernel install --user --name=<any_name_for_kernel>
-$ conda deactivate
+##### 2. Install dependencies
+```bash
+pip install -r requirements.txt
 ```
 
-### Launch Jupyter lab
-Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/jupyterlab-contrib/jupyterlab_code_formatter) along with the [Black](https://github.com/psf/black) and [isort](https://github.com/PyCQA/isort) formatters to facilitate compliance with PEP8 if you are editing the notebook.
+##### 3. Deactivate when done
+```bash
+deactivate
+```
+
+---
+
+#### Option B: Using conda
+
+##### 1. Create the environment
+```bash
+conda env create -f environment.yml
+```
+
+##### 2. Activate the environment
+```bash
+conda activate poster-metadata-quality-code
+```
+
+##### 3. Set up Jupyter kernel (for notebooks only)
+```bash
+pip install ipykernel
+python -m ipykernel install --user --name=<any_name_for_kernel>
+```
+
+##### 4. Deactivate when done
+```bash
+conda deactivate
+```
+
+---
+
+### Launch JupyterLab
+
+Launch JupyterLab and navigate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/jupyterlab-contrib/jupyterlab_code_formatter) along with the [Black](https://github.com/psf/black) and [isort](https://github.com/PyCQA/isort) formatters to facilitate compliance with PEP8 if you are editing the notebook.
 
 ## Inputs/outputs
 The Jupyter notebook makes use of files in the dataset associated with the paper. You will need to download the dataset at add it in the input folder (call the dataset folder 'dataset').
