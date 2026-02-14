@@ -41,12 +41,17 @@ Activate it:
 - **Windows:** `venv\Scripts\activate`
 - **macOS / Linux:** `source venv/bin/activate`
 
-##### 2. Install dependencies
+##### 2. Install dependencies and register Jupyter kernel
 ```bash
 pip install -r requirements.txt
 ```
+##### 3. Set up Jupyter kernel (for notebooks only)
 
-##### 3. Deactivate when done
+```bash
+python -m ipykernel install --user --name=<any_name_for_kernel>
+```
+
+##### 4. Deactivate when done
 ```bash
 deactivate
 ```
@@ -67,7 +72,6 @@ conda activate poster-metadata-quality-code
 
 ##### 3. Set up Jupyter kernel (for notebooks only)
 ```bash
-pip install ipykernel
 python -m ipykernel install --user --name=<any_name_for_kernel>
 ```
 
