@@ -1,10 +1,10 @@
-# Trends, FAIR Practices, and Opportunities in Scientific Poster Sharing Paper
+# Code: Poster Sharing and Reuse Paper
 
 ## About
-Scientific posters are the most common forms of scholarly communication, with millions presented at conferences each year. They contain early-stage insights that, if shared beyond the conference, could accelerate scientific discovery. In this study, digital sharing of posters and alignment with FAIR principles were investigated. See this [inventory](https://github.com/fairdataihub/poster-sharing-reuse-paper-inventory) for all related resources, including the paper.
+Scientific posters are one of the most common forms of scholarly communication, with millions presented at conferences each year. They contain early-stage insights that, if shared beyond the conference, could accelerate scientific discovery. This repository contains the code related to our analysis of poster sharing and reuse. See this [inventory](https://github.com/fairdataihub/poster-sharing-reuse-paper-inventory) for all related resources, including the paper.
 
 ## Standards followed
-The overall code is structured according to the [FAIR-BioRS guidelines](https://fair-biors.org/). The Python code in the Jupyter notebook [main.ipynb](main.ipynb) follows the [PEP8 guidelines](https://peps.python.org/pep-0008). Functions are documented with docstring formatted following [Google's style guide](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings). All the dependencies are documented in the [environment.yml](environment.yml) file.
+The overall code is structured according to the [FAIR-BioRS guidelines](https://fair-biors.org/). The Python code in the Jupyter notebook [main.ipynb](main.ipynb) follows the [PEP8 guidelines](https://peps.python.org/pep-0008). All the dependencies are documented in the [environment.yml](environment.yml) file.
 
 ## Getting Started
 
@@ -99,4 +99,4 @@ This work is licensed under
 Use the [GitHub issues](https://github.com/fairdataihub/poster-metadata-quality-code/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## How to cite
-If you use this code, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/poster-sharing-reuse-paper-inventory) when available)..
+If you use this code, please follow the citation instructions from the [CITATION.cff](CITATION.cff) file.
