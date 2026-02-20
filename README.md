@@ -1,4 +1,4 @@
-# Trends, FAIR Practices, and Opportunities in Scientific Poster Sharing Paper
+# Code: The State of Scientific Poster Sharing and Reuse Paper
 
 ## About
 Scientific posters are the most common forms of scholarly communication, with millions presented at conferences each year. They contain early-stage insights that, if shared beyond the conference, could accelerate scientific discovery. In this study, digital sharing of posters and alignment with FAIR principles were investigated. See this [inventory](https://github.com/fairdataihub/poster-sharing-reuse-paper-inventory) for all related resources, including the paper.
