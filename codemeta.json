@@ -15,11 +15,31 @@
       "givenName": "Aydan",
       "familyName": "Gasimova"
     },
-    { "@type": "Person", "familyName": "Mensah-Kane", "givenName": "Paapa" },
-    { "@type": "Person", "familyName": "Blake", "givenName": "Gerard" },
-    { "@type": "Person", "familyName": "Soundarajan", "givenName": "Sanjay" },
-    { "@type": "Person", "familyName": "O’neill", "givenName": "James" },
-    { "@type": "Person", "familyName": "Patel", "givenName": "Bhavesh" }
+    {
+      "@type": "Person",
+      "familyName": "Mensah-Kane",
+      "givenName": "Paapa"
+    },
+    {
+      "@type": "Person",
+      "familyName": "Blake",
+      "givenName": "Gerard"
+    },
+    {
+      "@type": "Person",
+      "familyName": "Soundarajan",
+      "givenName": "Sanjay"
+    },
+    {
+      "@type": "Person",
+      "familyName": "O’neill",
+      "givenName": "James"
+    },
+    {
+      "@type": "Person",
+      "familyName": "Patel",
+      "givenName": "Bhavesh"
+    }
   ],
   "softwareRequirements": [
     {
@@ -92,5 +112,5 @@
       "name": "webdriver-manager",
       "version": ">=4.0.0"
     }
-  ],
+  ]
 }
