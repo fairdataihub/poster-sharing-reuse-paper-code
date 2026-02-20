@@ -1,5 +1,5 @@
 {
-  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@context": "https://w3id.org/codemeta/3",
   "@type": "SoftwareSourceCode",
   "name": "The State of Scientific Poster Sharing and Reuse",
   "description": "This is the dataset associated with the paper titled \"Publicly Available Imaging Datasets for Age-related Macular Degeneration: Evaluation according to the Findable, Accessible, Interoperable, Reproducible (FAIR) Principles\". Age-related macular degeneration (AMD), a leading cause of vision loss among older adults, affects more than 200 million people worldwide. In this paper, We evaluated openly available AMD-related datasets containing optical coherence tomography (OCT) data against the FAIR principles. This repository contains the data related to our evaluation. See this inventory for all related resources, including the paper.",
