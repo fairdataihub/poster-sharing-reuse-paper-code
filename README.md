@@ -1,4 +1,4 @@
-# Code: The State of Scientific Poster Sharing and Reuse Paper
+# Code: Poster Sharing and Reuse Paper
 
 ## About
 Scientific posters are one of the most common forms of scholarly communication, with millions presented at conferences each year. They contain early-stage insights that, if shared beyond the conference, could accelerate scientific discovery. This repository contains the code related to our analysis of poster sharing and reuse. See this [inventory](https://github.com/fairdataihub/poster-sharing-reuse-paper-inventory) for all related resources, including the paper.
