@@ -99,4 +99,4 @@ This work is licensed under
 Use the [GitHub issues](https://github.com/fairdataihub/poster-metadata-quality-code/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## How to cite
-If you use this code, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/poster-sharing-reuse-paper-inventory) when available)..
+If you use this code, please follow the citation instructions from the [CITATION.cff](CITATION.cff) file.
