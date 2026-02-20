@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The State of Scientific Poster Sharing and Reuse"
+type: article
+authors:
+  - family-names: Gasimova
+    given-names: Aydan
+  - family-names: Mensah-Kane
+    given-names: Paapa
+  - family-names: Blake3
+    given-names: Gerard
+  - family-names: Soundarajan
+    given-names: Sanjay
+  - family-names: O’neill
+    given-names: James
+  - family-names: Patel
+    given-names: Bhavesh
+
+abstract: ""
+keywords: []
+license: ""
+url: ""
