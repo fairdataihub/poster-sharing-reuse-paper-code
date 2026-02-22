@@ -1,5 +1,5 @@
 {
-  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@context": "https://w3id.org/codemeta/3.1",
   "@type": "SoftwareSourceCode",
   "name": "The State of Scientific Poster Sharing and Reuse",
   "description": "Scientific posters are one of the most common forms of scholarly communication, with millions presented at conferences each year. They contain early-stage insights that, if shared beyond the conference, could accelerate scientific discovery. This repository contains the code related to our analysis of poster sharing and reuse. ",
