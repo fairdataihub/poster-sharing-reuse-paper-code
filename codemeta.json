@@ -1,8 +1,8 @@
 {
-  "@context": "https://w3id.org/codemeta/3.0",
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "The State of Scientific Poster Sharing and Reuse",
-  "description": "Scientific posters are one of the most common forms of scholarly communication, with millions presented at conferences each year. They contain early-stage insights that, if shared beyond the conference, could accelerate scientific discovery. This repository contains the code related to our analysis of poster sharing and reuse. ",
+  "name": "Code: Poster Sharing and Reuse Paper",
+  "description": "Scientific posters are one of the most common forms of scholarly communication, with millions presented at conferences each year. They contain early-stage insights that, if shared beyond the conference, could accelerate scientific discovery. This repository contains the code related to our analysis of poster sharing and reuse. See this inventory for all related resources, including the paper.",
   "version": "1.0.0",
   "license": "https://spdx.org/licenses/MIT",
   "codeRepository": "https://github.com/fairdataihub/poster-sharing-reuse-paper-code",
