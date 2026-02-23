@@ -40,5 +40,7 @@
     "https://pypi.org/project/googlesearch-python/",
     "https://pypi.org/project/selenium/",
     "https://pypi.org/project/webdriver-manager/"
-]
+  ],
+  "identifier": "10.5281/zenodo.18750324",
+  "dateModified": "2026-02-23"
 }
